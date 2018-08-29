@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001492-五月的風.mp3	0.170335	0.067096	0.090728	1.111615	0.871815	0.978225	

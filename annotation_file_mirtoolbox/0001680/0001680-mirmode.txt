@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001680-加多一點點.mp3	-0.014095	0.082064	-0.084466	0.017699	0.184897	0.902628	

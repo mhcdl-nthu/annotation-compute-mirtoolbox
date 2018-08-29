@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001105-LittleComfort(¥Õ¤é¹Ú¹C).mp3	0.111176	0.052986	0.245862	0.294251	0.892312	0.973639	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001747-就是溜溜的她.mp3	0.433629	0.142926	-0.070461	2.501134	0.917464	0.977666	

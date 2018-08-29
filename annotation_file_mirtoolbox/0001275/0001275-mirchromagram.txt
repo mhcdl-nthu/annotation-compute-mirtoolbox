@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001275-±á¥ú¤¤ªººq(SingingintheDawnLight).mp3	1.000000	0.013821	0.082184	0.010874	0.374057	0.193788	0.000434	0.442214	0.040341	0.416001	0.083571	0.091489	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0000271-ValasonsSousLesFlocons.mp3	0.831358	0.232391	0.390420	0.761925	0.428519	0.408445	0.117086	0.397749	0.468648	0.555713	1.000000	0.252728	

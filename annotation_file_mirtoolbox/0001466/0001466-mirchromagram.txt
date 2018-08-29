@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001466-小小羊兒要回家.mp3	0.429346	1.000000	0.373493	0.577883	0.084847	0.167336	0.472440	0.144927	0.270733	0.356243	0.989892	0.184360	

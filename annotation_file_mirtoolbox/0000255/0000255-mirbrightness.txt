@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000255-CelaN'estPasAssez.mp3	0.167249	0.132439	0.059831	4.446461	0.745214	0.979308	

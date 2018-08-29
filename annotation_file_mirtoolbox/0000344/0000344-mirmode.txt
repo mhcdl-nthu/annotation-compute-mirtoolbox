@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000344-羅校長的涼山情歌.mp3	-0.065169	0.111468	0.009063	0.090909	0.308422	0.970904	

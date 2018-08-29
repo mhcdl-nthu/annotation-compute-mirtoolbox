@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001792-其實你不懂我的心.mp3	0.404715	0.023920	0.116294	0.171894	0.229966	0.491714	0.039436	0.302891	0.076029	0.333285	1.000000	0.245664	

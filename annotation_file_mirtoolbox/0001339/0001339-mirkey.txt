@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Key_Mean	_Key_Std	_Key_Slope	_Key_PeriodFreq	_Key_PeriodAmp	_Key_PeriodEntropy	_Keyclarity_Mean	_Keyclarity_Std	_Keyclarity_Slope	_Keyclarity_PeriodFreq	_Keyclarity_PeriodAmp	_Keyclarity_PeriodEntropy	_Keystrength_PeakMagMean	_Keystrength_PeakMagStd	_Keystrength_PeakMagSlope	_Keystrength_PeakMagPeriodFreq	_Keystrength_PeakMagPeriodAmp	_Keystrength_PeakMagPeriodEntropy	
+song_file\0001339-®»ªdÄÏ.mp3	4.566667	3.568280	-0.003607	0.105263	0.699485	0.970590	0.633071	0.122308	-0.027778	0.200000	0.944364	0.967336	0.633071	0.122308	-0.027778	0.200000	0.944364	0.967336	

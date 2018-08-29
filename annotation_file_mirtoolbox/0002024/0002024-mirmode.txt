@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002024-行船人的純情曲.mp3	-0.057694	0.141154	-0.059616	0.042553	0.383397	0.935677	

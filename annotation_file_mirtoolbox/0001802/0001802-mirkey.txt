@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Key_Mean	_Key_Std	_Key_Slope	_Key_PeriodFreq	_Key_PeriodAmp	_Key_PeriodEntropy	_Keyclarity_Mean	_Keyclarity_Std	_Keyclarity_Slope	_Keyclarity_PeriodFreq	_Keyclarity_PeriodAmp	_Keyclarity_PeriodEntropy	_Keystrength_PeakMagMean	_Keystrength_PeakMagStd	_Keystrength_PeakMagSlope	_Keystrength_PeakMagPeriodFreq	_Keystrength_PeakMagPeriodAmp	_Keystrength_PeakMagPeriodEntropy	
+song_file\0001802-是否我真的一無所有.mp3	6.068702	3.803874	0.039262	0.076923	0.698690	0.971662	0.696363	0.128017	0.029442	0.400000	0.957875	0.972024	0.696363	0.128017	0.029442	0.400000	0.957875	0.972024	

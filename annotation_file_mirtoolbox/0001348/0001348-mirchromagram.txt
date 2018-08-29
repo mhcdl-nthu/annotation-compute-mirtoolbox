@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001348-¥^¥^(InaFlash).mp3	0.087489	0.172892	0.710815	0.013146	0.323193	0.260692	0.073788	0.988961	0.004033	1.000000	0.527275	0.035838	

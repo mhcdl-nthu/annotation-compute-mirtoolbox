@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001414-¤Ó¶§(Theinfinitesun).mp3	0.475433	0.140416	0.157336	1.819007	0.954779	0.978852	

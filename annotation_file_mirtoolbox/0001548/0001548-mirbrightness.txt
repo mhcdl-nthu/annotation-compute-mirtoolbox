@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001548-桃花江(電影_桃花江_主題曲).mp3	0.244544	0.133082	0.101903	1.333938	0.843660	0.979047	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002096-水潑落地難收回.mp3	-0.015677	0.121024	-0.015463	0.010526	0.331005	0.910210	

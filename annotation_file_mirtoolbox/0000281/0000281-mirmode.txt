@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000281-LovingTouch.mp3	0.016224	0.113233	0.082019	0.080000	0.119561	0.927669	

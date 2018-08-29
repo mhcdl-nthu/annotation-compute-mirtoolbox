@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001787-如果還有明天.mp3	-0.022416	0.099180	-0.094182	0.014184	0.141928	0.908543	

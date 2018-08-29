@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001442-±m­i(Rainbow).mp3	0.410430	0.136621	0.297648	0.666969	0.927187	0.975960	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000265-BossaforCyndie.mp3	0.212571	0.075490	-0.000922	3.334846	0.907221	0.976814	

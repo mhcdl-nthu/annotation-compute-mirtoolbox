@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001074-SymphonyNo.5ineminor.mp3	0.170417	0.087653	0.128546	2.858439	0.945706	0.983155	

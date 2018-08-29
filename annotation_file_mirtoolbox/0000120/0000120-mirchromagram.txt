@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0000120-陽光照耀著塔什庫爾甘.mp3	0.468972	0.266346	0.449364	0.023183	0.661379	0.396357	0.072813	0.471541	0.483371	1.000000	0.411463	0.344475	

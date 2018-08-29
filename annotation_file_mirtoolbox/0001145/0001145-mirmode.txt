@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001145-胡桃鉗中國舞曲(代表食物：異國料理-中國)(柴可夫斯基).mp3	-0.008105	0.084582	-0.145220	0.100000	0.416173	0.894125	

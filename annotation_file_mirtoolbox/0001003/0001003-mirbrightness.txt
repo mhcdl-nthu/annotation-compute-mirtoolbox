@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001003-YuZhongDeDianDianDiDi.mp3	0.327481	0.132456	0.146374	0.689968	0.898060	0.974569	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001164-抱著你的感覺.mp3	-0.053857	0.117370	-0.026114	0.011364	0.308722	0.946640	

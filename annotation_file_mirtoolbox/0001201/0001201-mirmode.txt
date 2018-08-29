@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001201-消風的汽球.mp3	-0.020696	0.111640	-0.030949	0.015267	0.210962	0.911485	

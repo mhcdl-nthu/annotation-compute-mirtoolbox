@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001115-SerenataD957fromSchwanengesang.mp3	0.158486	0.088319	0.253885	2.000907	0.924503	0.976996	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001584-月兒彎彎照九州.mp3	0.271268	0.089370	-0.110352	0.909503	0.936165	0.980695	

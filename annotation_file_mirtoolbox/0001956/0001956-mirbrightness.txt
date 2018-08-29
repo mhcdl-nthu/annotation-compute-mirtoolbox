@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001956-鷓鴣望你回來.mp3	0.311401	0.145294	0.014191	2.223230	0.884501	0.976849	

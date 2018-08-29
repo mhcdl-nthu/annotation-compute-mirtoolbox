@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001608-人生就是戲(電影_入室佳人_插曲).mp3	0.404805	0.200263	0.434033	0.311343	0.104759	0.655600	0.242314	0.490041	0.234720	0.504395	1.000000	0.228528	

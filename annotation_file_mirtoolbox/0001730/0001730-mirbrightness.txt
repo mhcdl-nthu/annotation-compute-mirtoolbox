@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001730-風兒輕輕吹.mp3	0.373676	0.158169	-0.019357	3.078319	0.887594	0.978044	

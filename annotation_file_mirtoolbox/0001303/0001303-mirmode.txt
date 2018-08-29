@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001303-­·ªºÃC¦â(TheColorsoftheWind).mp3	-0.000206	0.120369	-0.047759	0.181818	0.234509	0.913423	

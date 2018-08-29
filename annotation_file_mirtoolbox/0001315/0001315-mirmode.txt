@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001315-讓我們看雲去.mp3	0.009376	0.129262	0.006624	0.012270	0.226220	0.906870	

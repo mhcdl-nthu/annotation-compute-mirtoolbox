@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001534-恨不相逢未嫁時.mp3	-0.024516	0.120697	0.032976	0.333333	0.211385	0.926429	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001662-·R±¡ÄF¤l(AiQingPianZi).mp3	-0.037730	0.104777	-0.014271	0.285714	0.238130	0.942735	

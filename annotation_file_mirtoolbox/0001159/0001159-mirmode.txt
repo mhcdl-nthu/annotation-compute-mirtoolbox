@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001159-忘了說再見.mp3	-0.036690	0.123784	-0.068188	0.013423	0.261698	0.927754	

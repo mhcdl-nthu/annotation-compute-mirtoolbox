@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001775-¬üÄR®q(Formosa(BeautifulIsland)).mp3	0.276648	0.138450	0.074765	0.325351	0.850366	0.973758	

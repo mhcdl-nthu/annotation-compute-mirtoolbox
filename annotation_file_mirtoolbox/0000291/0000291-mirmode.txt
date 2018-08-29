@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000291-SongforMyBrother.mp3	-0.047725	0.111938	0.032314	0.200000	0.275183	0.947909	

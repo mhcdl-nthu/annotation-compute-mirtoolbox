@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001290-¹çÀRªüÜñ³ü(TheTranquilAlangyiTrail).mp3	0.335066	0.182184	0.278286	0.404224	0.937667	0.985659	

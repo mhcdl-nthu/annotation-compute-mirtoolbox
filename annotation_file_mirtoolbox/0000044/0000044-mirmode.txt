@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000044-熱情的太陽.mp3	-0.058284	0.108093	-0.007304	0.037037	0.305652	0.942163	

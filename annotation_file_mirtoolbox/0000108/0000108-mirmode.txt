@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000108-遇見你真好.mp3	-0.011037	0.119973	-0.004694	0.010101	0.126780	0.919412	

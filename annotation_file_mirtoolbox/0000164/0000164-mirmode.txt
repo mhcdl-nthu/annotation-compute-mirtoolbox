@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000164-為著拾萬元.mp3	-0.049175	0.104951	0.141010	0.500000	0.298054	0.944235	

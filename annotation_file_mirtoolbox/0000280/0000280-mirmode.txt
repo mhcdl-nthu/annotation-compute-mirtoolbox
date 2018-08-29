@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000280-DistantIslands.mp3	-0.111775	0.123665	0.054238	1.000000	0.609315	0.964045	

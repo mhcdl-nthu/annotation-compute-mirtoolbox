@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001508-¤Ñ²Pºq¤k(TheWanderingSongstress).mp3	0.391624	0.121633	-0.103349	1.212671	0.920792	0.976549	

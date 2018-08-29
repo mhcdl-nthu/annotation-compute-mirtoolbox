@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001140-美國弦樂四重奏(代表食物：義大利麵)(德弗扎克).mp3	0.494328	0.039958	0.336477	0.018351	0.195743	0.314833	0.000424	0.245942	0.000315	1.000000	0.191087	0.033408	

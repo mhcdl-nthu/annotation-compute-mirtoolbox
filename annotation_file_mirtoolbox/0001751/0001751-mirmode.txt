@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001751-¤kªB¤Í.mp3	-0.035583	0.115958	0.023255	0.022989	0.249440	0.901404	

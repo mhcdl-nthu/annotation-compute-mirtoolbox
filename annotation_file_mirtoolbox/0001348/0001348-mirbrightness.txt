@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001348-¥^¥^(InaFlash).mp3	0.214942	0.142875	0.011630	0.444646	0.733301	0.974558	

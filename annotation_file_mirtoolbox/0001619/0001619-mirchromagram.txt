@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001619-ªü¨½¤sªº©h®Q.mp3	0.025990	0.087867	0.000223	0.123879	0.027153	0.060943	0.059124	0.467973	1.000000	0.227730	0.002200	0.005247	

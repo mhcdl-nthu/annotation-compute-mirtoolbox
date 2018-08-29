@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001253-µ²ΉκυμυμªΊ½_ΑJ.mp3	0.173199	0.126004	-0.114299	0.909503	0.728776	0.975539	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001402-КЎАл.mp3	-0.052643	0.131747	-0.104107	0.015873	0.308552	0.922197	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000101-有一位聖嬰孩.mp3	-0.028324	0.105087	0.035687	0.040816	0.166682	0.916525	

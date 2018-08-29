@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000275-AmoureusementVotre.mp3	0.236340	0.099228	-0.020672	1.111615	0.903185	0.979234	

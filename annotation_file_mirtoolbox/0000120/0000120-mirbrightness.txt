@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000120-陽光照耀著塔什庫爾甘.mp3	0.339508	0.153661	0.231215	0.533575	0.892670	0.975913	

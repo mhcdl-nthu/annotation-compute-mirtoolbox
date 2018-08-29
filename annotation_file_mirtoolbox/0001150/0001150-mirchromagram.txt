@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001150-愛之悲(代表食物：義大利麵)(克萊斯勒).mp3	0.280156	0.075363	0.111720	0.021983	0.170564	0.413636	0.000561	0.048282	0.103380	0.999999	0.022606	0.138666	

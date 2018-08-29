@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000122-ÜSäj½Õ.mp3	-0.045976	0.076352	-0.094960	0.030303	0.342602	0.948079	

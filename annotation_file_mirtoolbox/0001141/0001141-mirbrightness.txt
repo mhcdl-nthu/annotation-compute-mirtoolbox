@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001141-µJ¿}¶ê»R¦±(CaramelWaltz).mp3	0.284004	0.092012	-0.038322	0.689968	0.943672	0.979015	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001525-¾K¤Hªº¤f¬õ.mp3	0.175550	0.067322	0.035844	0.168556	0.358174	0.193144	0.355536	0.121542	0.094739	0.291690	0.469494	1.000000	

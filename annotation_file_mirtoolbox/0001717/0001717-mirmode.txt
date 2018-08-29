@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001717-被遺忘的時光.mp3	-0.007183	0.115258	-0.055389	0.015267	0.162712	0.920435	

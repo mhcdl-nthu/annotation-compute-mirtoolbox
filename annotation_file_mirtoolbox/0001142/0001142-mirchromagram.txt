@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001142-維也納綺想曲(代表食物：異國料理-維也納)(克萊斯勒).mp3	0.009777	0.478912	0.000000	0.356624	0.345139	0.000000	0.999999	0.094131	0.000000	0.000000	0.282368	0.895201	

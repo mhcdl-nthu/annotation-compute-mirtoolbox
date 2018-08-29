@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000268-UnAmourdeSwing.mp3	0.203554	0.089552	-0.003024	1.819007	0.895986	0.979183	

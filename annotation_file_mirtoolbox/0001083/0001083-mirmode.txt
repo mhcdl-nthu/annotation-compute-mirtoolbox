@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001083-AriosofromCantataBWV156.mp3	-0.016821	0.126028	0.131640	0.031250	0.112428	0.909463	

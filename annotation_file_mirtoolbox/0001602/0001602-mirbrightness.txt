@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001602-曼波女郎(電影_曼波女郎_主題曲).mp3	0.466226	0.127256	0.062544	5.002269	0.961373	0.978198	

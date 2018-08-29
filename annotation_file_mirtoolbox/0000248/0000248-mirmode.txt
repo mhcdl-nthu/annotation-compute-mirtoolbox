@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000248-IOweThisDreamToYou.mp3	-0.034687	0.111405	0.044533	0.030769	0.218665	0.922202	

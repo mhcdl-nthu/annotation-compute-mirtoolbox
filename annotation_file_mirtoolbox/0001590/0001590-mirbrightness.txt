@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001590-魂縈舊夢(電影_孤戀花_配樂).mp3	0.207933	0.098579	0.066076	0.930655	0.844107	0.976904	

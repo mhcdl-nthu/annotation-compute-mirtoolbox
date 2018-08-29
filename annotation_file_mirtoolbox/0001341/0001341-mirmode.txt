@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001341-海裡來的沙.mp3	-0.008519	0.151030	0.047826	0.062500	0.306795	0.914619	

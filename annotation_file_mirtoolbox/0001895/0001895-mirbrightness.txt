@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001895-愛上一個不回家的人.mp3	0.382040	0.136910	0.179952	2.858439	0.916713	0.976862	

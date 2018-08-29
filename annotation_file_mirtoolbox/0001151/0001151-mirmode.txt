@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001151-愛之喜(代表食物：披薩)(克萊斯勒).mp3	-0.009018	0.164609	0.097464	0.117647	0.266303	0.894069	

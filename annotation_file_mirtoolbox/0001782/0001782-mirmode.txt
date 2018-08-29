@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001782-放我的真心在你的手心.mp3	-0.011603	0.105326	-0.158173	0.083333	0.189168	0.918444	

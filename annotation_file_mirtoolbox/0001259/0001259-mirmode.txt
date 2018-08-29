@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001259-快樂的小精靈.mp3	0.026402	0.098148	-0.026799	0.250000	0.189755	0.914119	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001274-³¥³¾±¡ºq(SkyofaThousandWings).mp3	-0.026258	0.085470	-0.026306	0.062500	0.356813	0.920366	

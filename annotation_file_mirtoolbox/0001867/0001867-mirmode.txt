@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001867-我是真的付出我的愛.mp3	-0.036691	0.158283	0.021819	0.080000	0.210703	0.906234	

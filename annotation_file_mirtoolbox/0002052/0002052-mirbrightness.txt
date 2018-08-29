@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0002052-講什麼山盟海誓.mp3	0.454196	0.136819	0.044873	0.336287	0.952520	0.977630	

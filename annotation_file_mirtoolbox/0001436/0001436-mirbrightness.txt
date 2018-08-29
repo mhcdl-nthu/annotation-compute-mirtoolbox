@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001436-天使的眼淚(Angelstears).mp3	0.504623	0.178044	-0.032987	2.667877	0.964809	0.971810	

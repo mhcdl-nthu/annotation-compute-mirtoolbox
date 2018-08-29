@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001761-月亮代表我的心.mp3	-0.019198	0.118043	0.058047	0.013605	0.256305	0.908675	

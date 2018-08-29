@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001105-LittleComfort(¥Õ¤é¹Ú¹C).mp3	-0.049700	0.129238	0.012802	0.058824	0.308157	0.927023	

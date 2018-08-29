@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001594-我有一段情.mp3	-0.032918	0.090129	-0.003588	0.166667	0.196910	0.942475	

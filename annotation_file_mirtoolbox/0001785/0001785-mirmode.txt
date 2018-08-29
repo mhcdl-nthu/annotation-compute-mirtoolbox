@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001785-對你愛不完.mp3	-0.025024	0.135466	0.137851	0.500000	0.202551	0.911635	

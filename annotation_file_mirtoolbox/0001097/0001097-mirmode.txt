@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001097-DOLPHINSCATHEDRAL.mp3	-0.027623	0.115786	-0.019772	0.033333	0.351193	0.911848	

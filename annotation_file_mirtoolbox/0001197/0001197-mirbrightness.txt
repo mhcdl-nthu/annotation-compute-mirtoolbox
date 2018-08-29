@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001197-愛阮就要像地動.mp3	0.441806	0.148566	-0.213167	3.638014	0.950947	0.981453	

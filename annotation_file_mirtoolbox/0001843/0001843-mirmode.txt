@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001843-我很醜，可是我很溫柔.mp3	-0.040581	0.115185	0.064285	0.105263	0.220073	0.937133	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001060-捱等係客家好朋友.mp3	0.018385	0.128011	0.123089	0.095238	0.322138	0.910964	

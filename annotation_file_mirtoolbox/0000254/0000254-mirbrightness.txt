@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000254-SaveTheBonesForHenryJones.mp3	0.249046	0.173837	0.110458	2.501134	0.765824	0.975019	

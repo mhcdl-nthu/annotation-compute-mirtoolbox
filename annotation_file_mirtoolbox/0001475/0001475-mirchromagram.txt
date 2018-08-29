@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001475-花樣的年華(電影_花樣年華_配樂).mp3	0.177031	0.004633	0.807237	0.067647	1.000000	0.020609	0.539564	0.394435	0.001995	0.247434	0.005650	0.438273	

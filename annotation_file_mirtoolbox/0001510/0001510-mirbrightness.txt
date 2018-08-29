@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001510-戒煙歌(電影_萬世流芳_插曲).mp3	0.463690	0.135625	-0.129001	0.930655	0.942624	0.982956	

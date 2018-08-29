@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001401-«C¹Ú´ò.mp3	-0.003289	0.108936	-0.039322	0.250000	0.147362	0.906283	

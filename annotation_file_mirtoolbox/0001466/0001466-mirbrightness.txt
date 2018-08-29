@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001466-小小羊兒要回家.mp3	0.126356	0.053575	-0.084627	2.501134	0.884453	0.980063	

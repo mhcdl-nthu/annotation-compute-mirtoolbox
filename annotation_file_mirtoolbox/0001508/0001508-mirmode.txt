@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001508-¤Ñ²Pºq¤k(TheWanderingSongstress).mp3	-0.008020	0.119744	0.049460	0.023256	0.154094	0.902941	

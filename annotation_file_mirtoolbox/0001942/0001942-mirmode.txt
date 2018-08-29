@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001942-可憐的戀花再會吧.mp3	-0.025507	0.108050	0.050172	0.080000	0.147002	0.919651	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001595-青春兒女(電影_曼波女郎_插曲).mp3	0.537315	0.127769	0.102805	1.667423	0.959420	0.978444	

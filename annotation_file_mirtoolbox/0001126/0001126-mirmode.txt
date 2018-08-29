@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001126-FantasticAdventure(¬ü­¹¤p¦Yµó).mp3	0.019959	0.137459	-0.001696	0.074074	0.392211	0.910368	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001780-誰能禁止我的愛.mp3	0.417121	0.107713	-0.089655	1.000454	0.950511	0.977810	

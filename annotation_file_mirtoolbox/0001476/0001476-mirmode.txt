@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001476-嘆十聲(電影_蕩婦心_插曲).mp3	-0.006532	0.106156	0.051808	0.013245	0.200154	0.910082	

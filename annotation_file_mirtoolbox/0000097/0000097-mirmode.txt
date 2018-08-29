@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000097-我是台灣原住民.mp3	-0.053312	0.106579	0.015877	0.027778	0.284493	0.950427	

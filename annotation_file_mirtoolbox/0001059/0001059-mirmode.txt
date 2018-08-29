@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001059-我在月光下歌唱.mp3	-0.039384	0.102050	0.091791	0.033333	0.233546	0.956723	

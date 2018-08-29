@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001518-別走得那麼快.mp3	-0.003100	0.106212	-0.070530	0.041667	0.194864	0.891454	

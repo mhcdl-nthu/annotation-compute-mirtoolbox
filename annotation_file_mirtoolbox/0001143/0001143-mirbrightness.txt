@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001143-匈牙利舞曲第3首(代表食物：義大利麵)(布拉姆斯).mp3	0.178475	0.049888	0.129184	1.379936	0.955317	0.973906	

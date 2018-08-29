@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001807-分离是更多的相聚.mp3	-0.045435	0.110112	-0.012926	0.068966	0.257050	0.960023	

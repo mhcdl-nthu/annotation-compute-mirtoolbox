@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001650-我的心裡沒有他.mp3	-0.040295	0.101495	0.025812	0.032787	0.185383	0.950939	

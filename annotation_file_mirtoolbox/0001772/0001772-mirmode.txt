@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001772-小雨打在我身上.mp3	-0.032604	0.106098	-0.011919	0.080000	0.242306	0.929096	

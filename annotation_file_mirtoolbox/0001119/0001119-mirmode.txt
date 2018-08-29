@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001119-大自然音樂.mp3	-0.068864	0.110567	0.106372	0.181818	0.445509	0.953809	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001884-最後一次溫柔.mp3	-0.016636	0.114370	-0.023526	0.040816	0.102707	0.916518	

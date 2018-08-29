@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002073-天無絕人之路.mp3	-0.021524	0.110925	0.035710	0.083333	0.159793	0.905224	

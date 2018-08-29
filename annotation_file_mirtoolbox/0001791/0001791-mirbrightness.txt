@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001791-¤Ó¶§¤@¼Ë(taiyangyiyang).mp3	0.473566	0.135572	0.240556	1.111615	0.946397	0.977925	

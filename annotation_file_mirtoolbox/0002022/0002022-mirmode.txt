@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002022-他鄉的男兒.mp3	-0.048398	0.103260	-0.078054	0.037037	0.261846	0.957701	

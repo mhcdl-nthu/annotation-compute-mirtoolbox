@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001036-在想您想捱介時節想起您.mp3	-0.059018	0.089953	-0.028677	0.083333	0.382304	0.952899	

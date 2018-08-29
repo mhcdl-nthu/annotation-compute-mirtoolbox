@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001081-ScentOfAMorning(²M±áªºªâªÚ).mp3	-0.012603	0.115910	0.162983	0.074074	0.281453	0.891416	

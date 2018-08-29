@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000284-GaiaDreamingHerselfAwake.mp3	0.003697	0.097051	0.118897	0.045455	0.137614	0.921055	

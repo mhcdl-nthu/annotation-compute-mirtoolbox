@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001606-青年頌(電影_復活的玫瑰_插曲).mp3	0.008224	0.106309	0.098237	0.033333	0.142713	0.902083	

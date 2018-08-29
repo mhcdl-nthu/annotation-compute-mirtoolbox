@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001572-我有個好家庭.mp3	0.009376	0.114311	-0.012421	0.012500	0.203459	0.900401	

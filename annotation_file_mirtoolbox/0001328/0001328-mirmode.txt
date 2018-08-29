@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001328-¬üÄRªº½_ÁJ(BeautifulGrainsofRice).mp3	-0.028598	0.132475	0.050904	0.037037	0.202419	0.912005	

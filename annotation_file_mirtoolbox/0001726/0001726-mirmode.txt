@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001726-母親我愛您.mp3	-0.028474	0.123452	-0.225722	0.400000	0.246448	0.922684	

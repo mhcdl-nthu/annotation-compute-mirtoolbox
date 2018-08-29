@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001590-魂縈舊夢(電影_孤戀花_配樂).mp3	-0.039557	0.115986	0.083066	0.046512	0.223010	0.931142	

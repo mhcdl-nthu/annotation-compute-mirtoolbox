@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001812-親愛的小孩.mp3	-0.030328	0.124061	-0.014166	0.066667	0.207784	0.919666	

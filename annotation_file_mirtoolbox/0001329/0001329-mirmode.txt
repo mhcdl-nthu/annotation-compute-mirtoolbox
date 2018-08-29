@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001329-守住這一片陽光.mp3	0.000360	0.105645	0.047941	0.048780	0.135620	0.912524	

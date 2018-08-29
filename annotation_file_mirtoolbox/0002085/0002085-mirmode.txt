@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002085-男性的本領.mp3	-0.025865	0.096816	-0.001361	0.010870	0.201527	0.937867	

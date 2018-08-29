@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001985-人客的要求.mp3	-0.009062	0.092420	-0.034860	0.250000	0.140584	0.906297	

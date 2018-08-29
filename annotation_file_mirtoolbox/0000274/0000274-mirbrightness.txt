@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000274-SentimentalAccordeon.mp3	0.182189	0.093662	-0.077323	0.909503	0.866721	0.978817	

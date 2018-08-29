@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000089-ฉ]ลง.mp3	-0.007861	0.126201	0.081369	0.068966	0.194788	0.906133	

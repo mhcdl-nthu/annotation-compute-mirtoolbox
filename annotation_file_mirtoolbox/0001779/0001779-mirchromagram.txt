@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001779-®öªá§j¿ô±¡¤H¹Ú.mp3	1.000000	0.042624	0.438385	0.003862	0.193471	0.056835	0.000000	0.763573	0.005545	0.106226	0.000000	0.000196	

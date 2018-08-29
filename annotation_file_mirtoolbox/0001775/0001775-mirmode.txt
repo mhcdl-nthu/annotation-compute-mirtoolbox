@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001775-¬üÄR®q(Formosa(BeautifulIsland)).mp3	0.019415	0.117148	0.034477	0.500000	0.137461	0.913280	

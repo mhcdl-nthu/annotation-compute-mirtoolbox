@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001447-¸ò¦Û¤v¦X°Û(MySoloDuet).mp3	0.367443	0.146728	0.388991	2.501134	0.952701	0.969417	

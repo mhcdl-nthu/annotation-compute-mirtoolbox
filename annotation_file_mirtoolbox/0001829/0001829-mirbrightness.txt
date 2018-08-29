@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001829-那一夜你喝了酒.mp3	0.388017	0.152975	-0.087019	6.669691	0.924481	0.980260	

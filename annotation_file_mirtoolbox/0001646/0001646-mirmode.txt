@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001646-¤@¤o¬Û«ä¤@¤o²\.mp3	-0.067763	0.099108	0.014789	0.142857	0.350736	0.967683	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001942-可憐的戀花再會吧.mp3	0.320812	0.143381	-0.090863	1.600726	0.878805	0.978889	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000236-EverythingHappensToMe.mp3	0.137143	0.063519	-0.281164	3.078319	0.871942	0.981224	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001092-Auroreprintani?re(¬K¤ÑªºÀÆ¥ú).mp3	0.888575	0.000000	0.103062	0.000000	0.221174	0.063901	0.000000	0.999999	0.000000	0.097488	0.115865	0.000545	

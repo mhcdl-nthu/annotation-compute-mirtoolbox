@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001668-月朦朧(電影_星星.月亮.太陽_插曲).mp3	0.268775	0.152002	0.079414	0.606336	0.803993	0.973584	

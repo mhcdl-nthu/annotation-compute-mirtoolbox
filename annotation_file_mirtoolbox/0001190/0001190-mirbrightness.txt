@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001190-恨不相逢未嫁時.mp3	0.328970	0.155188	0.046097	2.667877	0.876944	0.977774	

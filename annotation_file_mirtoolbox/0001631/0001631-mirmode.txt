@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001631-愛人是蜜糖(電影_殺機重重_插曲).mp3	-0.026540	0.109616	-0.024198	0.032787	0.213472	0.905898	

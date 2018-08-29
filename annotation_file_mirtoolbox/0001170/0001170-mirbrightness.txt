@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001170-你在我心中最深的地方.mp3	0.238079	0.142383	0.168494	0.540786	0.823860	0.971794	

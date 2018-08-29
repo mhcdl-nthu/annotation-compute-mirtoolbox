@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000289-LaPromessedeIaube.mp3	0.274855	0.160680	-0.054917	2.223230	0.912035	0.980969	

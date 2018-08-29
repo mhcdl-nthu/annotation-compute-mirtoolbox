@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001095-·Rªºshalala.mp3	-0.032649	0.110552	0.023489	0.060606	0.254956	0.916373	

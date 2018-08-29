@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001879-走在陽光裡.mp3	-0.033119	0.105996	-0.065041	1.000000	0.223583	0.936032	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000304-今夜好好睡-睡眠引導.mp3	-0.047830	0.099709	0.100757	0.333333	0.347224	0.941620	

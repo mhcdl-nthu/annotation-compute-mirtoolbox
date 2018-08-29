@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001606-青年頌(電影_復活的玫瑰_插曲).mp3	0.102278	0.450131	0.991452	0.251054	0.634758	0.114682	0.616068	0.695762	0.580521	1.000000	0.378245	0.627898	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001126-FantasticAdventure(¬ü­¹¤p¦Yµó).mp3	0.970263	0.169811	0.679564	0.034674	0.272743	0.377268	0.007859	0.572725	0.594448	1.000000	0.892336	0.425880	

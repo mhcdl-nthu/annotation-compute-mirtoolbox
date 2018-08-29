@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001802-是否我真的一無所有.mp3	-0.046188	0.122241	0.107720	0.076923	0.311202	0.946970	

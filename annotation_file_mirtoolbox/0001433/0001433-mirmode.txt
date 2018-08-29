@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001433-LoveOthersAsSelf.mp3	-0.023647	0.098024	-0.017982	0.014184	0.155331	0.916102	

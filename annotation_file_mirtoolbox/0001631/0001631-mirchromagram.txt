@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001631-愛人是蜜糖(電影_殺機重重_插曲).mp3	0.183169	0.244061	0.943553	0.262429	0.471239	0.068832	0.613322	0.909508	0.362523	1.000000	0.643632	0.606333	

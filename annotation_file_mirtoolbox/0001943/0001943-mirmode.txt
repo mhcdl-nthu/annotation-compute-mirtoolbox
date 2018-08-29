@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001943-請你信賴我.mp3	-0.022811	0.103364	0.039405	0.066667	0.149641	0.913078	

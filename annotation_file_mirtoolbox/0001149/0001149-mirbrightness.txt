@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001149-µµªºÄ²Áä(PurpleTouch).mp3	0.091438	0.042380	0.046151	0.513053	0.819121	0.980864	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001146-綠袖子幻想曲(代表食物：異國料理-英國)(馮威廉斯).mp3	0.211178	0.122066	0.301196	0.800363	0.810938	0.974721	

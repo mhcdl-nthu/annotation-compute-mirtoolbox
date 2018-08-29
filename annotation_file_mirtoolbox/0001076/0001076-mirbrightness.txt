@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001076-Leventdelam?moire(記憶中的風).mp3	0.265185	0.110519	0.316069	2.667877	0.981775	0.972861	

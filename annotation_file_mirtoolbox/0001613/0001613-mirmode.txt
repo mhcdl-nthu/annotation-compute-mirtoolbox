@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001613-媽媽送我一個吉他.mp3	-0.083438	0.117151	0.036431	0.333333	0.399667	0.965360	

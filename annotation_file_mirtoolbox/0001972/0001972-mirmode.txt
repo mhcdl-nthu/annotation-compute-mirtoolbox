@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001972-可愛的小姐.mp3	0.011927	0.112412	-0.171872	1.000000	0.162245	0.902861	

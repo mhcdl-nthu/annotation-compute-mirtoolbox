@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001141-µJ¿}¶ê»R¦±(CaramelWaltz).mp3	-0.007364	0.126188	-0.125012	0.666667	0.262131	0.908524	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001489-春風吻上我的臉(電影_那個不多情_插曲).mp3	0.325924	0.138424	0.116950	2.223230	0.896608	0.978032	

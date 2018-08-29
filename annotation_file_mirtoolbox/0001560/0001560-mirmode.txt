@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001560-那個不多情(電影_那個不多情_主題曲).mp3	0.010694	0.121659	0.038555	0.076923	0.153536	0.900542	

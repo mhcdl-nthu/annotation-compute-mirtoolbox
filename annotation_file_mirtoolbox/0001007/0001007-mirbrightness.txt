@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001007-YoruNoFeriibooto.mp3	0.454525	0.153753	0.133154	4.001815	0.942858	0.977987	

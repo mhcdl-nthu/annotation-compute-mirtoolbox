@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001418-Someday(VuVuReggae).mp3	-0.041075	0.113475	-0.036080	0.031250	0.223036	0.946535	

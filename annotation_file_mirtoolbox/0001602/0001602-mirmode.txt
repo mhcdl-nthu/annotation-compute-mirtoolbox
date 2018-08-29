@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001602-曼波女郎(電影_曼波女郎_主題曲).mp3	-0.022052	0.113506	-0.037444	0.015385	0.164597	0.900861	

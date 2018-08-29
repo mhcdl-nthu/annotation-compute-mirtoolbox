@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000277-GoodByeEverybody.mp3	-0.041247	0.120129	0.102047	0.086957	0.194775	0.937062	

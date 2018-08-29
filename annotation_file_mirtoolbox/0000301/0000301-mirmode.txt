@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000301-山裡有首小情歌.mp3	-0.014434	0.098011	-0.006843	0.222222	0.110067	0.921277	

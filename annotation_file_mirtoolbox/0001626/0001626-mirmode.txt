@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001626-Ä«ªGªá.mp3	-0.062526	0.099521	0.023197	0.062500	0.362475	0.971683	

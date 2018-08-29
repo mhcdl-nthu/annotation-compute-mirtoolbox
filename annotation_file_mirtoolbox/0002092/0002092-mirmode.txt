@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002092-變心的愛人.mp3	-0.022378	0.091974	-0.042999	0.066667	0.192929	0.904136	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000243-OnTheSunnySideOfTheStreet.mp3	-0.017168	0.103410	0.049185	0.250000	0.141097	0.903811	

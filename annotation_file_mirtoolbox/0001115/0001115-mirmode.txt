@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001115-SerenataD957fromSchwanengesang.mp3	-0.029598	0.128823	0.027983	0.054054	0.187711	0.924130	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002031-多情的男兒.mp3	-0.031482	0.101772	-0.024826	0.011429	0.163744	0.935858	

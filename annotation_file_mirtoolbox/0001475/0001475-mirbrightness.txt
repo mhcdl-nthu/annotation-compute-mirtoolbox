@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001475-花樣的年華(電影_花樣年華_配樂).mp3	0.190595	0.077713	0.215472	1.111615	0.898151	0.976912	

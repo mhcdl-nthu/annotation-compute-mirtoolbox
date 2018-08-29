@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001075-Parfumdusoir(©]­»).mp3	0.289306	0.129877	0.020254	0.171018	0.810840	0.986214	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001773-只要為你活一天.mp3	-0.036926	0.113548	-0.020059	0.022989	0.220847	0.927335	

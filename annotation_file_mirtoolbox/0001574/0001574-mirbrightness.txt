@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001574-春夏秋冬(電影_千面女郎_插曲).mp3	0.489617	0.137604	0.041133	0.555808	0.923205	0.979968	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001475-花樣的年華(電影_花樣年華_配樂).mp3	-0.012008	0.132131	0.037185	0.012658	0.201655	0.901272	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000266-CommeCaBalance.mp3	-0.048614	0.128278	0.077548	0.057143	0.229290	0.937811	

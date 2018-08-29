@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001447-¸ò¦Û¤v¦X°Û(MySoloDuet).mp3	-0.003130	0.129890	0.014861	0.012500	0.247995	0.910377	

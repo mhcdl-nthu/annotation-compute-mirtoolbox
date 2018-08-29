@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001029-³L°CªºÂ÷§O.mp3	-0.005587	0.109899	0.076780	0.500000	0.139495	0.911467	

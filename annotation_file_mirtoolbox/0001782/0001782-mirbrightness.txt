@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001782-放我的真心在你的手心.mp3	0.399047	0.140417	0.193341	2.858439	0.915555	0.979569	

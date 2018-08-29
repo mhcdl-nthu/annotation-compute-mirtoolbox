@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001476-嘆十聲(電影_蕩婦心_插曲).mp3	0.198923	0.062697	-0.147649	1.539160	0.921656	0.977551	

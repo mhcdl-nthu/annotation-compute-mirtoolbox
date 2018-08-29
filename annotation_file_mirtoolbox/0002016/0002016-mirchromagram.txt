@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0002016-ª¨ª¨¦b¨ºùØ.mp3	0.315594	0.139498	0.000039	0.653817	0.001596	0.211072	0.000807	0.058507	1.000000	0.015646	0.374527	0.000044	

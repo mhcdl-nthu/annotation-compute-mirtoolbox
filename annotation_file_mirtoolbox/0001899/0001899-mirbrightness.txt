@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001899-我是一隻小小鳥(ATinyBird).mp3	0.496713	0.103464	0.282681	2.354009	0.978936	0.978253	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001347-你是我所有的回憶.mp3	-0.031007	0.126292	0.007937	0.008000	0.203670	0.923253	

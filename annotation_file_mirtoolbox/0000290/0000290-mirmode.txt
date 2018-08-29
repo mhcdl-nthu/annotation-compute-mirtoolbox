@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000290-WestminsterBallad.mp3	-0.033911	0.097379	0.094882	0.050000	0.193862	0.958992	

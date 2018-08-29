@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001168-兩個人的月亮.mp3	-0.067047	0.135488	-0.114761	0.009615	0.327782	0.955263	

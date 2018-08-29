@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000346-美麗的末日預言.mp3	-0.006974	0.127307	0.031769	0.020619	0.175201	0.908932	

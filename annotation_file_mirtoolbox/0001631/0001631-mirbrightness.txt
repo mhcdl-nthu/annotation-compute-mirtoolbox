@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001631-愛人是蜜糖(電影_殺機重重_插曲).mp3	0.312941	0.152759	0.232734	0.526555	0.877948	0.975825	

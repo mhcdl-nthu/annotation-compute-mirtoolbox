@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001560-那個不多情(電影_那個不多情_主題曲).mp3	0.162052	0.079099	0.001150	1.250567	0.834798	0.977182	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001747-就是溜溜的她.mp3	-0.078513	0.111996	-0.024414	0.222222	0.374935	0.968216	

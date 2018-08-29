@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001676-光明的前程(電影_星星月亮太陽_插曲)(GuangMingDeQianCheng(DianYing_XingXingYueLiangTaiYang_ChaQu)).mp3	0.268135	0.122351	0.137745	0.189659	0.845358	0.978024	

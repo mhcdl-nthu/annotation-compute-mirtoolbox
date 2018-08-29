@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001299-«C«C¯ó­ì(GreenGreenPlain).mp3	0.503672	0.000001	0.487154	0.116420	0.152383	0.680845	0.346456	1.000000	0.258533	0.105902	0.134189	0.214145	

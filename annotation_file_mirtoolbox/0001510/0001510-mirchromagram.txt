@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001510-戒煙歌(電影_萬世流芳_插曲).mp3	0.376760	1.000000	0.471033	0.240606	0.736958	0.433114	0.904615	0.170873	0.309989	0.612200	0.263201	0.902773	

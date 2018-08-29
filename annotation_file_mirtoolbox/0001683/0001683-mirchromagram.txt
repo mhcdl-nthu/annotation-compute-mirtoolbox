@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001683-今天不回家(JinTianBuHuiJia).mp3	0.649608	0.370638	0.391883	0.585623	0.345552	0.525607	0.643053	1.000000	0.682503	0.460138	0.985020	0.390416	

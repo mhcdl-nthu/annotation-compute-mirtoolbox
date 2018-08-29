@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001842-年輕不要留白.mp3	-0.044914	0.105583	0.032718	0.012658	0.256770	0.944872	

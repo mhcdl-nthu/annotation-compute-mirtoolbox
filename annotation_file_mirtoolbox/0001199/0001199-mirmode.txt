@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001199-聲聲攏是你的名.mp3	-0.014854	0.118793	0.001964	0.009852	0.164683	0.901417	

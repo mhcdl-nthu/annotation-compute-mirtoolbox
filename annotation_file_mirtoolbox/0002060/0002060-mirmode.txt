@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002060-愛一斤值多少.mp3	-0.082212	0.098452	0.032748	0.333333	0.454245	0.964876	

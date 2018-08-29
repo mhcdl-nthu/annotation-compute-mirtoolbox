@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001058-妳永遠依然在我心中.mp3	-0.026034	0.088764	-0.003491	0.020833	0.259050	0.926669	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001510-戒煙歌(電影_萬世流芳_插曲).mp3	-0.021557	0.112234	-0.016250	0.666667	0.216067	0.921395	

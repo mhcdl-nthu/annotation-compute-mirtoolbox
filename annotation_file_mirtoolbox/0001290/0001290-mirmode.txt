@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001290-¹çÀRªüÜñ³ü(TheTranquilAlangyiTrail).mp3	0.002484	0.136504	0.029883	0.142857	0.176342	0.898950	

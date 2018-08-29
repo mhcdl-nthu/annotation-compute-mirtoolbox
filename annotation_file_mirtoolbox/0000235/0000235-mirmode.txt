@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000235-NatureBoy.mp3	-0.050001	0.106063	-0.005803	0.111111	0.283242	0.926351	

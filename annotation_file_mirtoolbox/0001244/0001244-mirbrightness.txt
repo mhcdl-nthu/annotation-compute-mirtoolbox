@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001244-YiNaBaYuDdia.mp3	0.326482	0.136067	0.113998	3.334846	0.915713	0.977298	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001574-春夏秋冬(電影_千面女郎_插曲).mp3	0.605251	0.342451	0.390586	0.243658	0.589242	1.000000	0.315167	0.533469	0.259424	0.541697	0.701349	0.593875	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001840-明天會更好.mp3	-0.027279	0.112922	-0.084832	0.076923	0.211229	0.923270	

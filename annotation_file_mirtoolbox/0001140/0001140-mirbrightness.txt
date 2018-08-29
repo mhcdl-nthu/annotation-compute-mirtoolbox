@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001140-美國弦樂四重奏(代表食物：義大利麵)(德弗扎克).mp3	0.546491	0.086893	0.129825	0.444646	0.976802	0.976410	

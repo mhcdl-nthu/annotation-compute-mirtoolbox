@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001313-民歌手-時空交錯.mp3	-0.005796	0.136090	-0.086648	0.090909	0.229629	0.898795	

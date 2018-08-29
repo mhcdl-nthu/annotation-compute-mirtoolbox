@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001418-Someday(VuVuReggae).mp3	0.432525	0.156184	0.156818	5.716878	0.915719	0.979970	

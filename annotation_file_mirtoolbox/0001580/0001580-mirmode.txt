@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001580-站在高崗上(電影_阿里山之鶯_插曲).mp3	-0.041426	0.097786	0.068184	0.285714	0.250748	0.948802	

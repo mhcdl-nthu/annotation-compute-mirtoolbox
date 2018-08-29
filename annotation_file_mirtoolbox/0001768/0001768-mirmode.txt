@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001768-有真情有活力.mp3	-0.033356	0.100129	0.023848	0.011696	0.222593	0.929828	

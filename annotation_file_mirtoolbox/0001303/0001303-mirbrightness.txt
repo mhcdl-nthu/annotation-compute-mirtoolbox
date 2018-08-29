@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001303-­·ªºÃC¦â(TheColorsoftheWind).mp3	0.278234	0.202016	0.240146	0.189659	0.825211	0.986012	

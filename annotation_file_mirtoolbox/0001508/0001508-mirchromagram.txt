@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001508-¤Ñ²Pºq¤k(TheWanderingSongstress).mp3	0.235972	0.975564	0.194649	0.261144	1.000000	0.364240	0.577415	0.231894	0.462922	0.856404	0.278372	0.582571	

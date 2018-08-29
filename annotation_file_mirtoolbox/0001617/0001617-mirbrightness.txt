@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001617-戀愛的路多麼甜.mp3	0.425332	0.118161	-0.015733	0.851450	0.936606	0.978686	

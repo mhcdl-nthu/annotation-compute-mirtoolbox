@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001736-路邊的野花不要採.mp3	-0.023926	0.117140	-0.046632	0.020408	0.217699	0.889986	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001376-¤U«B¤Ñªº¶g¥½.mp3	0.009925	0.112237	0.007970	0.000098	0.331626	0.071570	0.185123	0.000121	0.316227	1.000000	0.010402	0.205630	

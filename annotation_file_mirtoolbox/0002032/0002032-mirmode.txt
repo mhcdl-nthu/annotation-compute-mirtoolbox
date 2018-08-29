@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002032-阮若打開心?的門窗.mp3	-0.008205	0.112463	-0.054307	0.009302	0.173389	0.910544	

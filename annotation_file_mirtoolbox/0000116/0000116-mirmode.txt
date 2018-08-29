@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000116-第一二胡狂想曲.mp3	-0.055063	0.108873	0.089546	0.036364	0.272303	0.954192	

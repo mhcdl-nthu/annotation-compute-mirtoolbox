@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000305-TheSunandMoonsEssence.mp3	0.309006	0.096585	-0.067056	5.002269	0.973736	0.981383	

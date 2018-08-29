@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001952-深更的吉他.mp3	-0.051618	0.112721	0.074430	0.014599	0.307733	0.952891	

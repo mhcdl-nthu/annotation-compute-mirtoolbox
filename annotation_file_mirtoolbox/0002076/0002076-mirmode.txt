@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002076-歹路不可行.mp3	-0.062565	0.114477	0.066234	0.018692	0.279260	0.968408	

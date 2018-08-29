@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001328-¬üÄRªº½_ÁJ(BeautifulGrainsofRice).mp3	0.378820	0.014009	1.000000	0.002633	0.112299	0.491210	0.019506	0.390303	0.033568	0.733167	0.221322	0.143698	

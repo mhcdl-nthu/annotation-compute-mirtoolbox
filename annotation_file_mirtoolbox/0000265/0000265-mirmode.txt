@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000265-BossaforCyndie.mp3	-0.029472	0.127726	0.078368	0.012903	0.190404	0.906417	

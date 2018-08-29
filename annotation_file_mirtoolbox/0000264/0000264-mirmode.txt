@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000264-SwingN¢X1.mp3	-0.030437	0.134030	-0.077797	0.031250	0.191541	0.903348	

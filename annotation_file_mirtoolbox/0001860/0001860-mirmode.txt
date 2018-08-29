@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001860-≈ ∑RØg≠‘∏s.mp3	-0.027608	0.129986	0.007520	0.010101	0.187751	0.921366	

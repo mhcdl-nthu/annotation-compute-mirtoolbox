@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002054-浪子的心情.mp3	-0.021004	0.116922	-0.036754	0.007663	0.196018	0.904227	

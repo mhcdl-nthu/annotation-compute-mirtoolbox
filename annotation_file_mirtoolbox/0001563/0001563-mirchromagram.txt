@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001563-靜靜的月夜(電影_酒色財氣_插曲).mp3	0.155739	0.466017	1.000000	0.483737	0.598301	0.095865	0.397362	0.462693	0.052786	0.231372	0.527750	0.796610	

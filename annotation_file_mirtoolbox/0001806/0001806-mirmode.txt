@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001806-¤k¤Hªá.mp3	-0.035394	0.134925	0.057604	0.285714	0.222942	0.923808	

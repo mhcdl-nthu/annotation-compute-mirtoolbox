@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001435-SomeonetoLeanOn.mp3	0.155371	0.084413	0.063462	3.334846	0.841131	0.975725	

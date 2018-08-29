@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001283-ÄéÂOºëÆF(SpiritsoftheBush).mp3	0.347136	0.161002	-0.200235	1.250567	0.933222	0.979608	

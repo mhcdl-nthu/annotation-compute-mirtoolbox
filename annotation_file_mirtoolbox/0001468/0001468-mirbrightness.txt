@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001468-天上人間(電影_茶花女_插曲).mp3	0.200084	0.067853	-0.161029	1.429220	0.907303	0.978792	

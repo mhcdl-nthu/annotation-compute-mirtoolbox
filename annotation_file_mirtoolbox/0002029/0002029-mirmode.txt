@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002029-台北今夜冷清清.mp3	-0.043081	0.114851	0.027634	0.014286	0.289904	0.940556	

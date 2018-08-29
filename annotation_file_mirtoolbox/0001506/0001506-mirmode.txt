@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001506-春之晨(電影_花外流鶯_插曲).mp3	-0.037897	0.105325	-0.013612	0.153846	0.205070	0.928421	

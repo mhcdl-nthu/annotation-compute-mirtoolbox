@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001081-ScentOfAMorning(²M±áªºªâªÚ).mp3	0.116807	0.049106	0.199229	0.289987	0.867427	0.976959	

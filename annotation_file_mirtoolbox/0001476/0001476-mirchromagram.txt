@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001476-嘆十聲(電影_蕩婦心_插曲).mp3	0.021744	0.105776	0.340452	0.116192	0.618593	0.195636	0.496180	0.135594	0.284434	1.000000	0.264864	0.656925	

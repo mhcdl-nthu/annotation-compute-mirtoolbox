@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001105-LittleComfort(¥Õ¤é¹Ú¹C).mp3	0.206788	0.160791	0.012103	0.629513	0.000000	0.348069	0.000000	0.503510	1.000000	0.000000	0.449815	0.000000	

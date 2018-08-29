@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001671-山前山後百花開.mp3	-0.035763	0.102765	0.017884	0.222222	0.215195	0.926394	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001514-黃葉舞秋風(電影_長相思_插曲).mp3	0.070088	0.458971	0.572442	0.015817	0.688116	0.085495	0.778681	0.233771	0.122580	1.000000	0.364434	0.664686	

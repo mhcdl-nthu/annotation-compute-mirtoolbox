@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001580-站在高崗上(電影_阿里山之鶯_插曲).mp3	0.825765	0.068759	0.522774	0.190383	0.642982	0.072251	0.041424	0.879906	0.429250	1.000000	0.318089	0.396084	

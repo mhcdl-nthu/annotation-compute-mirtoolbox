@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001733-我是一片雲.mp3	-0.048000	0.106513	0.084108	0.666667	0.360260	0.942830	

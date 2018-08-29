@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001158-夢寐以求(原唱：鄭進一).mp3	0.341136	0.127108	0.025909	0.287900	0.897622	0.976379	

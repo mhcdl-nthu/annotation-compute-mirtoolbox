@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001444-變調的獵人(Thehunterischanging).mp3	-0.028190	0.131400	-0.016179	0.083333	0.231526	0.910694	

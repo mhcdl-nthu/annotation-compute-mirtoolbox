@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001438-¤j¨û(Uncle).mp3	-0.017407	0.113994	-0.020323	0.142857	0.233656	0.908461	

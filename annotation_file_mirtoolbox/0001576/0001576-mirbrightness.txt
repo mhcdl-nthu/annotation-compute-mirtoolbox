@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001576-恨不鍾情在當年.mp3	0.182583	0.104375	0.135388	0.454752	0.804887	0.975864	

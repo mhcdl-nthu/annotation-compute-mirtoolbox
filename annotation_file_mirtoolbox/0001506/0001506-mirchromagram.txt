@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001506-春之晨(電影_花外流鶯_插曲).mp3	0.206231	0.159794	0.579517	0.226823	0.483846	0.135820	0.409519	0.504320	0.216011	1.000000	0.389177	0.737858	

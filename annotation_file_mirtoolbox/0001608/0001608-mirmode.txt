@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001608-人生就是戲(電影_入室佳人_插曲).mp3	-0.008700	0.100631	0.057821	0.015873	0.149427	0.906673	

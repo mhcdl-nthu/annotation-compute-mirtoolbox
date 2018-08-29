@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001571-我要飛上青天(電影_空中小姐_插曲).mp3	0.014898	0.098993	-0.053022	0.250000	0.191755	0.905934	

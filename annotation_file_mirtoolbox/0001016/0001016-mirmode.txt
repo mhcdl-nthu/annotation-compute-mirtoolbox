@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001016-BeiJiuChang.mp3	-0.067313	0.118820	-0.019708	0.022989	0.362323	0.959082	

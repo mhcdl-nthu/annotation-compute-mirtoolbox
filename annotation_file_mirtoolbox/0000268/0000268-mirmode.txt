@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000268-UnAmourdeSwing.mp3	-0.020604	0.137958	0.067786	0.012987	0.163424	0.905742	

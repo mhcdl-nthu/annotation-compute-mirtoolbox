@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001098-流水的?音.mp3	-0.042536	0.160832	-0.091697	0.181818	0.563938	0.947897	

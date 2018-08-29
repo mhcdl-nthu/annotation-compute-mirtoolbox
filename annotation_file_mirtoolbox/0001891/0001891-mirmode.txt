@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001891-星星知我心.mp3	-0.046318	0.107566	-0.111970	0.333333	0.236656	0.965432	

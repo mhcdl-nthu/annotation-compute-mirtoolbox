@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001071-IntermezzofromCavalleriarusticana.mp3	0.227997	0.115459	0.126306	0.381125	0.751356	0.982101	

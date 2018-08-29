@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001207-歡喜的目屎.mp3	-0.084622	0.104910	0.028423	0.250000	0.417228	0.967467	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000154-快樂的馬車.mp3	-0.001291	0.130379	-0.010321	0.014184	0.178966	0.904945	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000253-YouCantMakeMoneyDreaming.mp3	0.180173	0.105823	0.019238	1.905626	0.767476	0.976649	

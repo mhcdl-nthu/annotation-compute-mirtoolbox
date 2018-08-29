@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001997-銀座西路車站前.mp3	-0.053980	0.097907	0.037454	0.142857	0.290671	0.969522	

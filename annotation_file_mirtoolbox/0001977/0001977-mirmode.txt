@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001977-男性的情淚.mp3	-0.031230	0.098259	0.009652	0.051282	0.198886	0.931936	

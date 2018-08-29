@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001574-春夏秋冬(電影_千面女郎_插曲).mp3	-0.027450	0.090078	0.062895	0.058824	0.174419	0.929937	

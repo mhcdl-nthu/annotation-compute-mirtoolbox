@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000050-再會夜都市.mp3	-0.007544	0.105225	-0.022483	0.013889	0.154978	0.903473	

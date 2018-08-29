@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001250-閃閃發亮的星星.mp3	-0.021174	0.123270	0.059196	0.005208	0.225844	0.921074	

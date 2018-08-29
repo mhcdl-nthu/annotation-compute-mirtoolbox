@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000116-第一二胡狂想曲.mp3	0.295652	0.096275	0.129768	3.078319	0.956723	0.982306	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001151-愛之喜(代表食物：披薩)(克萊斯勒).mp3	1.000000	0.359372	0.362989	0.934316	0.538499	0.835399	0.030545	0.955858	0.252230	0.179559	0.553234	0.119785	

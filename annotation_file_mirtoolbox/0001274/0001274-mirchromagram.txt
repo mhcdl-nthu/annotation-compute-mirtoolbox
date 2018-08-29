@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001274-³¥³¾±¡ºq(SkyofaThousandWings).mp3	0.000003	0.406416	0.001226	0.280018	0.000000	0.012350	0.053749	0.005621	1.000000	0.000000	0.048628	0.027439	

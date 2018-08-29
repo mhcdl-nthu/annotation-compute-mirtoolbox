@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001564-金鳳凰(電影_金鳳凰_主題曲).mp3	-0.041854	0.109620	0.147885	0.500000	0.252482	0.934145	

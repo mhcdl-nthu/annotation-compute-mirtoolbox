@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001431-cepoªÌªi.mp3	0.004482	0.091653	0.137483	0.666667	0.209285	0.920571	

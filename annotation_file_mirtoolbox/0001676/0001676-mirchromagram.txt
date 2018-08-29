@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001676-光明的前程(電影_星星月亮太陽_插曲)(GuangMingDeQianCheng(DianYing_XingXingYueLiangTaiYang_ChaQu)).mp3	0.375512	0.021228	0.285149	0.653630	0.168939	0.516059	0.294014	0.773653	0.767320	0.424064	1.000000	0.326020	

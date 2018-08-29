@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001330-為何夢見他.mp3	-0.027022	0.116207	-0.085659	0.009390	0.189398	0.900542	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001328-¬üÄRªº½_ÁJ(BeautifulGrainsofRice).mp3	0.284952	0.169419	0.297544	0.330729	0.853311	0.982298	

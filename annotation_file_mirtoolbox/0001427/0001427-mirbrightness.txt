@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001427-kanu你在哪裡了.mp3	0.537269	0.128030	-0.003715	3.334846	0.958884	0.980194	

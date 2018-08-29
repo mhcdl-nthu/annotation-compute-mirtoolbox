@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000161-最後的火車站.mp3	-0.043021	0.116121	0.131536	0.026316	0.222006	0.934781	

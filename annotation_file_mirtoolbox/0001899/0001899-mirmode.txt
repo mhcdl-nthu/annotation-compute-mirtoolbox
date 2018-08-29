@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001899-我是一隻小小鳥(ATinyBird).mp3	-0.013914	0.116004	0.038822	0.009132	0.156185	0.919760	

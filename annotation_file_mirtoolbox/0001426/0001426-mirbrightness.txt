@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001426-CidalFulad¤Ó¶§¤ë«G.mp3	0.300711	0.156681	0.089360	1.739920	0.844329	0.977131	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001754-為什麼春天要遲到.mp3	0.277242	0.110334	0.041132	2.501134	0.898603	0.978175	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001148-´¸®É¦h¶³(ºt«µ¦±).mp3	0.999999	0.006728	0.971679	0.003799	0.106888	0.095485	0.000258	0.069933	0.028604	0.032576	0.008541	0.236474	

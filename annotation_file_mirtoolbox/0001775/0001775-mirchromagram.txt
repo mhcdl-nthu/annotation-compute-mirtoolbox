@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001775-¬üÄR®q(Formosa(BeautifulIsland)).mp3	1.000000	0.007137	0.072064	0.001163	0.206804	0.375335	0.000388	0.189510	0.000198	0.206052	0.300998	0.020166	

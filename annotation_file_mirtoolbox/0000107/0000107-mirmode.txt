@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000107-永遠讚美耶和華.mp3	-0.094351	0.134198	0.089712	0.400000	0.399177	0.971232	

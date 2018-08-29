@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001872-是不是這樣的夜晚你才會這樣的想起我.mp3	-0.014506	0.131693	0.046474	0.007752	0.266544	0.914946	

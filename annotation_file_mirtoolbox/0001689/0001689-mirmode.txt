@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001689-多少柔情多少淚.mp3	-0.039137	0.091747	0.045110	1.000000	0.277997	0.940530	

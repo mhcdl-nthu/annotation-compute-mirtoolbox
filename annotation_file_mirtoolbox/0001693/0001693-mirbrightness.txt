@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001693-我的一顆心(WoDeYiKeXin).mp3	0.477307	0.116184	-0.015202	0.833711	0.954362	0.977706	

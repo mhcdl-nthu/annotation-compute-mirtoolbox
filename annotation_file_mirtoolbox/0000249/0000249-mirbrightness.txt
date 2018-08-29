@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000249-IfThatsTheWayYouFeel.mp3	0.367171	0.143770	-0.168741	0.851450	0.912166	0.983844	

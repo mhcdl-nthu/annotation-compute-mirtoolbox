@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000239-SweetLorraine.mp3	-0.000857	0.111835	0.074612	0.036364	0.115132	0.910237	

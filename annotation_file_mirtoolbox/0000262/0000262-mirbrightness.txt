@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000262-PourquoiOnSaime.mp3	0.098677	0.099686	-0.004437	2.223230	0.646838	0.974889	

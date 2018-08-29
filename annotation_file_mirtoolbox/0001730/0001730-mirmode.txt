@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001730-風兒輕輕吹.mp3	-0.046397	0.098581	-0.047432	0.153846	0.264311	0.955306	

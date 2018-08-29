@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001981-誰人不想起故鄉.mp3	0.463071	0.134105	-0.026433	3.638014	0.938773	0.978814	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000274-SentimentalAccordeon.mp3	-0.031156	0.134269	-0.063571	0.062500	0.152338	0.901681	

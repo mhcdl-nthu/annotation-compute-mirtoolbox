@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001090-普羅旺斯的山居(李欣芸).mp3	-0.025783	0.147679	-0.041109	0.500000	0.340131	0.913192	

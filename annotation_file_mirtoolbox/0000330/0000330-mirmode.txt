@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000330-無言歌-清明.mp3	-0.065030	0.121228	-0.087507	0.041667	0.347158	0.964887	

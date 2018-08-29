@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001498-陋巷之春(電影_歌女之歌_插曲).mp3	0.123093	0.057042	-0.010640	1.429220	0.842854	0.978223	

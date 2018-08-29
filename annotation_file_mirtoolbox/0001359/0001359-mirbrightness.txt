@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001359-讓我歡喜讓我憂.mp3	0.455769	0.134757	0.047151	1.429220	0.955158	0.975213	

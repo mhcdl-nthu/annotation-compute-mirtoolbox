@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000138-怎能再回頭.mp3	-0.015834	0.120725	-0.020777	1.000000	0.243034	0.914827	

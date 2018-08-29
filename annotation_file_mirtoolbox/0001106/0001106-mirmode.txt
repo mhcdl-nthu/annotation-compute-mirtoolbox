@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001106-ForYourHappiness(¯¬§A©¯ºÖ).mp3	0.003576	0.141543	0.179006	0.500000	0.196267	0.894468	

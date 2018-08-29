@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001249-ªüÀ¨ªº©O³ä(GrandmasMurmuring).mp3	0.165227	0.104225	-0.200797	0.909503	0.815574	0.978617	

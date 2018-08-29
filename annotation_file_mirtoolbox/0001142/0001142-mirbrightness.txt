@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001142-維也納綺想曲(代表食物：異國料理-維也納)(克萊斯勒).mp3	0.361463	0.170116	0.127103	0.555808	0.885696	0.967924	

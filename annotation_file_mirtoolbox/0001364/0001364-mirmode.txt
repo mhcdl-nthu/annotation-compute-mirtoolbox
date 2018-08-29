@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001364-何年何月再相逢.mp3	-0.052762	0.116798	-0.095563	0.009615	0.226891	0.958074	

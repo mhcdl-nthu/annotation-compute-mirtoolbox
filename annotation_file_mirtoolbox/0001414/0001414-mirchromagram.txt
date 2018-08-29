@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001414-¤Ó¶§(Theinfinitesun).mp3	0.604110	0.231527	0.607598	1.000000	0.195995	0.451162	0.278358	0.878831	0.970205	0.441743	0.890143	0.257034	

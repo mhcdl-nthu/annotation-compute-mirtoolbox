@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001668-月朦朧(電影_星星.月亮.太陽_插曲).mp3	0.012695	0.098530	0.149414	0.038462	0.125103	0.900849	

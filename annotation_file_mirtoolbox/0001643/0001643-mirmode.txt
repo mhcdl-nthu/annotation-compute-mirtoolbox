@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001643-母親妳在何方.mp3	-0.019502	0.106900	-0.004256	0.046512	0.159576	0.910480	

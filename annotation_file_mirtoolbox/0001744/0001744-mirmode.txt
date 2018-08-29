@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001744-愛我在今宵.mp3	-0.039131	0.120208	0.024823	0.064516	0.193668	0.934302	

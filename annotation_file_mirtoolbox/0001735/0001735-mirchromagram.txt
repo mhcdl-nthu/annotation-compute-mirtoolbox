@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001735-愛的路上我和你(LovingontheRoad).mp3	0.333232	0.594466	0.327039	0.677301	0.429538	0.241399	0.434169	0.401703	1.000000	0.629507	0.584870	0.837876	

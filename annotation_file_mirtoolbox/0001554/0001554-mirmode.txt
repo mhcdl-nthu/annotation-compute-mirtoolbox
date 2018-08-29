@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001554-回來了(電影_曼波女郎_插曲).mp3	-0.010032	0.112601	0.005735	0.011364	0.142802	0.906551	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001053-天公落水調.mp3	-0.016911	0.114720	-0.063511	0.153846	0.204734	0.886923	

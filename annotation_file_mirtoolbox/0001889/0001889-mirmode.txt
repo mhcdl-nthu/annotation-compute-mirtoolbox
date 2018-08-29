@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001889-生命中的精靈.mp3	-0.045355	0.098414	-0.073007	0.166667	0.275141	0.954332	

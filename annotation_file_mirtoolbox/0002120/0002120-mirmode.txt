@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002120-恰想也是你一人.mp3	-0.065378	0.103773	0.012475	0.166667	0.336029	0.978313	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000241-TheThrillIsGone.mp3	-0.054655	0.105338	-0.026890	0.133333	0.273290	0.969503	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001004-Sukyandaru.mp3	-0.028964	0.116492	-0.005160	0.250000	0.205802	0.917557	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0002110-§ﬂ®x∂√¡V¡V.mp3	0.646856	0.271809	0.244282	0.891853	0.431741	0.817246	0.298290	0.526738	0.466410	0.158249	1.000000	0.341840	

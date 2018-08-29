@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001136-¥Hª´ºÀ¤§¦W(IntheNameofRoses).mp3	0.132754	0.004945	0.999999	0.000000	0.000479	0.023132	0.012116	0.938629	0.011881	0.019093	0.018980	0.285843	

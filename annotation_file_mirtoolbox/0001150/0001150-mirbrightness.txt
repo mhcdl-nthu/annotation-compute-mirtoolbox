@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001150-愛之悲(代表食物：義大利麵)(克萊斯勒).mp3	0.103916	0.073504	0.318438	8.003630	0.840409	0.974846	

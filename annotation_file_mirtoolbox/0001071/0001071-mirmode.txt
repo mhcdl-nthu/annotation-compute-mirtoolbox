@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001071-IntermezzofromCavalleriarusticana.mp3	-0.023253	0.128692	0.156336	0.285714	0.199397	0.909005	

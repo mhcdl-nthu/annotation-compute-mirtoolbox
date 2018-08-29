@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001634-§Ú·R«ê«ê(WoAiQiaQia(DianYing_ManBoNuLang_ChaQu)).mp3	0.223304	0.063658	0.185654	1.000000	0.189701	0.834192	0.172633	0.188621	0.514607	0.063575	0.411034	0.079172	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001735-愛的路上我和你(LovingontheRoad).mp3	0.508287	0.177051	0.052646	0.500227	0.910963	0.978359	

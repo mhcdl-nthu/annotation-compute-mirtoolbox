@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000308-MovingLikeaCloud.mp3	-0.005959	0.132965	-0.036416	0.006289	0.109956	0.929159	

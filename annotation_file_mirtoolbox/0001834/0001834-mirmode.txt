@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001834-跟著感覺走.mp3	-0.044302	0.105175	-0.022024	0.090909	0.265357	0.945408	

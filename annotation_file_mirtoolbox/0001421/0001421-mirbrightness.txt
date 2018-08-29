@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001421-milekalkomamanokapah«C¦~¤§¤÷ªº©I³ê.mp3	0.248930	0.133374	0.112504	1.026106	0.868527	0.976329	

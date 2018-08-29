@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001900-特別的愛給特別的你.mp3	0.009869	0.120550	-0.007632	0.400000	0.138693	0.913003	

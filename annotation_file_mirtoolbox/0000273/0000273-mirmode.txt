@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000273-JolieBossaforYou.mp3	-0.007279	0.126164	0.042701	0.011696	0.139919	0.903136	

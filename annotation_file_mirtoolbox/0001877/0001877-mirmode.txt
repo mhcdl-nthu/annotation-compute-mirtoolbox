@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001877-熱線你和我.mp3	-0.058147	0.108613	-0.058828	0.181818	0.407475	0.955797	

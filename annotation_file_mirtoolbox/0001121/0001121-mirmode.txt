@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001121-SUNNYDAYS(流行少女館).mp3	-0.013901	0.169562	0.038890	0.125000	0.417473	0.926289	

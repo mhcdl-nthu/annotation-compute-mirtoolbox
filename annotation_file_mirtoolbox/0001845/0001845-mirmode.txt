@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001845-我的未來不是夢.mp3	-0.022293	0.146343	-0.035232	0.066667	0.308263	0.912812	

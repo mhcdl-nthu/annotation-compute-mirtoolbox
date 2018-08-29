@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001843-我很醜，可是我很溫柔.mp3	0.407890	0.157609	0.230845	1.290908	0.922301	0.973624	

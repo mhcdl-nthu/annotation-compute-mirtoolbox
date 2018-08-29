@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001958-無聊的男性.mp3	-0.016341	0.108878	-0.031444	0.285714	0.172276	0.902070	

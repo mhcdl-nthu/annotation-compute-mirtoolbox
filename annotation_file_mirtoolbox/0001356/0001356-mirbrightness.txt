@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001356-°¸µM(ChelsiaMyLove).mp3	0.347019	0.119895	0.054437	2.858439	0.928486	0.979401	

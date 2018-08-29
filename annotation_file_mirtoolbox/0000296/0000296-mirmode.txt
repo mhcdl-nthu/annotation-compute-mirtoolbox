@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000296-IRememberJS.mp3	-0.007245	0.124477	0.062829	0.036364	0.175286	0.905229	

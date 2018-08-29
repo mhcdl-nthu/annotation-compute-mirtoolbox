@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000107-永遠讚美耶和華.mp3	0.322665	0.124604	0.093613	1.667423	0.953617	0.973285	

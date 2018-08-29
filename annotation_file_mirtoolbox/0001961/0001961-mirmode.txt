@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001961-純情的男兒.mp3	-0.038439	0.085819	-0.073351	0.066667	0.271203	0.947970	

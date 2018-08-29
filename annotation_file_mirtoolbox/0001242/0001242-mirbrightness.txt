@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001242-¤j½Þ­¹¿»Á¦.mp3	0.631257	0.131788	0.012779	3.078319	0.967381	0.977105	

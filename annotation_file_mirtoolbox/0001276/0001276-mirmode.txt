@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001276-¤pÁlóð.mp3	-0.034610	0.057117	-0.023708	0.076923	0.393591	0.936756	

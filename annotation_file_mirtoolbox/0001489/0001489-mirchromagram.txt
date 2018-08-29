@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001489-春風吻上我的臉(電影_那個不多情_插曲).mp3	0.566826	0.014786	0.136669	0.476758	0.064337	0.215395	0.006881	0.390767	0.043327	0.082038	1.000000	0.163722	

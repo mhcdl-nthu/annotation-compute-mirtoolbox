@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001103-Tr?umerei(Kinderszenen).mp3	-0.047547	0.098712	-0.053376	0.250000	0.257188	0.959400	

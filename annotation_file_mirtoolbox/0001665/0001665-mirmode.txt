@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001665-幾度花落時.mp3	-0.032236	0.103389	0.087663	0.071429	0.234554	0.930578	

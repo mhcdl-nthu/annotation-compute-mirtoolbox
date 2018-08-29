@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001140-美國弦樂四重奏(代表食物：義大利麵)(德弗扎克).mp3	-0.073193	0.139927	0.286131	0.500000	0.510472	0.918895	

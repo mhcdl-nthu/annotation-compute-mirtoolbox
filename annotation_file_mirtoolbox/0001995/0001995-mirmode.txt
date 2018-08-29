@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001995-¬K®d¹BªeÃä.mp3	-0.003441	0.102621	0.006147	0.016129	0.153532	0.907618	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000101-有一位聖嬰孩.mp3	0.386822	0.145705	0.008653	0.384790	0.896084	0.978205	

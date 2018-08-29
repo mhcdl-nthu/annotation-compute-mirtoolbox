@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001595-青春兒女(電影_曼波女郎_插曲).mp3	0.423035	0.264995	1.000000	0.202104	0.281625	0.047288	0.239528	0.623836	0.164158	0.339611	0.094733	0.397427	

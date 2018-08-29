@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001754-為什麼春天要遲到.mp3	-0.064582	0.086135	0.066727	0.500000	0.444128	0.959932	

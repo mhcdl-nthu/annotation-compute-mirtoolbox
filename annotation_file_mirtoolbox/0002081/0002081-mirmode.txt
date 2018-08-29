@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002081-命運的腳步.mp3	-0.053779	0.092952	0.012791	0.010471	0.330694	0.961681	

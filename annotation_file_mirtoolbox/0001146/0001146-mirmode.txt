@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001146-綠袖子幻想曲(代表食物：異國料理-英國)(馮威廉斯).mp3	-0.018340	0.112236	-0.107511	0.050000	0.238394	0.895018	

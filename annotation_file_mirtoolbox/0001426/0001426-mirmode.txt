@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001426-CidalFulad¤Ó¶§¤ë«G.mp3	-0.016111	0.100886	0.008342	0.133333	0.146302	0.924944	

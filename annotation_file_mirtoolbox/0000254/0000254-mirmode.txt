@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000254-SaveTheBonesForHenryJones.mp3	-0.030839	0.111668	0.029802	0.333333	0.245110	0.904223	

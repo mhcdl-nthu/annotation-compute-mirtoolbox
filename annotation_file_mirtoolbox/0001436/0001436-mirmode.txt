@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001436-天使的眼淚(Angelstears).mp3	0.007215	0.119194	-0.041130	0.083333	0.175953	0.914159	

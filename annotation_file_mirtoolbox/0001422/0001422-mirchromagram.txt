@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001422-祖靈請你不要放棄我們(Tremumuwan！pleasedonotgiveuponus).mp3	0.155308	0.268717	0.079190	0.005545	0.017557	0.058903	0.392454	0.534512	0.267538	1.000000	0.180811	0.781843	

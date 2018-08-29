@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001145-胡桃鉗中國舞曲(代表食物：異國料理-中國)(柴可夫斯基).mp3	0.331898	0.156267	0.284504	3.334846	0.954113	0.972622	

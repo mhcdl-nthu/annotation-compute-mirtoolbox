@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001618-¶Ì¥Ê»P³¥¤XÀY.mp3	0.142511	0.127935	0.457055	0.062191	0.424609	0.075941	0.234990	0.169390	0.280028	1.000000	0.176550	0.377448	

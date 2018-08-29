@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001902-你知道我在等你嗎.mp3	0.425923	0.143713	0.155502	2.501134	0.937373	0.975649	

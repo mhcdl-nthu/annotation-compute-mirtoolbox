@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001835-愛已付出別收回.mp3	-0.026058	0.108638	-0.008163	0.066667	0.166258	0.918248	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000243-OnTheSunnySideOfTheStreet.mp3	0.338273	0.162940	0.080898	1.819007	0.868879	0.982153	

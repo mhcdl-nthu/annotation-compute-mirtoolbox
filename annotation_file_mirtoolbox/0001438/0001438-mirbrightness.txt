@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001438-¤j¨û(Uncle).mp3	0.557355	0.122244	-0.140628	2.354009	0.971898	0.978349	

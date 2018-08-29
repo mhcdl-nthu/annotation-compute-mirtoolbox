@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001542-等著你回來.mp3	-0.059467	0.135269	-0.027962	0.400000	0.331320	0.920111	

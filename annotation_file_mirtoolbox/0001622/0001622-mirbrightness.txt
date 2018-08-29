@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001622-好像一雙相思鳥.mp3	0.616350	0.124787	0.033868	4.446461	0.971766	0.979326	

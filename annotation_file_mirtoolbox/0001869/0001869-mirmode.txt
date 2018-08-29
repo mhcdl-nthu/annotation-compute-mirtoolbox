@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001869-好好愛我.mp3	-0.050829	0.130474	-0.013439	0.066667	0.405085	0.925641	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001580-站在高崗上(電影_阿里山之鶯_插曲).mp3	0.324495	0.107583	0.035099	3.638014	0.939440	0.975462	

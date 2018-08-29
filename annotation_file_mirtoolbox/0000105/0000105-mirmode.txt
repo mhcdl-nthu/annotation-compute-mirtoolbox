@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000105-生命的喜悅.mp3	-0.097798	0.130125	0.018465	1.000000	0.553988	0.968064	

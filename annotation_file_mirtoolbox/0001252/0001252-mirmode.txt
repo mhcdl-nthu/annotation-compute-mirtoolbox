@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001252-誰家的花開了.mp3	-0.057653	0.144408	0.017161	0.105263	0.466091	0.901637	

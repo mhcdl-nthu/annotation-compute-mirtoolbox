@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001151-愛之喜(代表食物：披薩)(克萊斯勒).mp3	0.303709	0.096066	0.280163	1.667423	0.944984	0.973343	

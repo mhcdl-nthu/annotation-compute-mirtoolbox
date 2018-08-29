@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000276-SwingaLasVegas.mp3	-0.015074	0.130652	-0.026574	0.022989	0.125305	0.901176	

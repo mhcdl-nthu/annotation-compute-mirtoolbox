@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001401-«C¹Ú´ò.mp3	0.408527	0.125653	0.013986	4.001815	0.953778	0.979633	

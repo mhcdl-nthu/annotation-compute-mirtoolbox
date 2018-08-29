@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001670-七夕(電影_星星.月亮.太陽_插曲)(QiXi(DianYing_XingXingYueLiangTaiYang_ChaQu)).mp3	0.288064	0.109656	0.010714	0.232664	0.878230	0.979758	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001498-陋巷之春(電影_歌女之歌_插曲).mp3	0.710285	0.344857	0.129176	0.424213	0.193657	0.291964	0.110356	0.320687	0.701331	0.322860	1.000000	0.310190	

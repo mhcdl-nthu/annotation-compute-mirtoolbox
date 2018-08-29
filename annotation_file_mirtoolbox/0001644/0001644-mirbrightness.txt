@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001644-教我如何不想她(電影_教我如何不想她_主題曲).mp3	0.359067	0.115395	0.239710	2.667877	0.940575	0.975259	

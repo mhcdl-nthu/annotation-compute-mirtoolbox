@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000287-PourAinsi...Dire.mp3	0.256351	0.119121	0.212871	2.354009	0.885442	0.976330	

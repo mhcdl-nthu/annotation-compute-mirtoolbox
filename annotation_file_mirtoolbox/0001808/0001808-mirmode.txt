@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001808-一場遊戲一場夢.mp3	0.013799	0.125437	-0.124319	0.166667	0.135086	0.904811	

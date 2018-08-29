@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001153-我們住這裡.mp3	0.038836	0.129591	-0.001890	0.400000	0.251330	0.919876	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0002029-台北今夜冷清清.mp3	0.516621	0.120529	-0.010185	1.600726	0.952724	0.979776	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000127-愛你一萬年.mp3	-0.020903	0.164944	-0.014538	0.014184	0.258184	0.904994	

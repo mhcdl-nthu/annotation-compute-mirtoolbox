@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001676-光明的前程(電影_星星月亮太陽_插曲)(GuangMingDeQianCheng(DianYing_XingXingYueLiangTaiYang_ChaQu)).mp3	-0.012473	0.112621	-0.007585	0.026316	0.122476	0.911258	

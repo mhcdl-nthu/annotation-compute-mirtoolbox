@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001554-回來了(電影_曼波女郎_插曲).mp3	0.493230	0.097350	-0.007992	2.667877	0.966881	0.978177	

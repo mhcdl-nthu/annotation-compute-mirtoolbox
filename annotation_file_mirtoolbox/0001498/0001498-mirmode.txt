@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001498-陋巷之春(電影_歌女之歌_插曲).mp3	0.000006	0.125646	0.025005	0.044444	0.204415	0.915442	

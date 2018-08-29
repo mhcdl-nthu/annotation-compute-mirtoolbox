@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001126-FantasticAdventure(¬ü­¹¤p¦Yµó).mp3	0.334029	0.166391	-0.167152	0.588502	0.931426	0.974802	

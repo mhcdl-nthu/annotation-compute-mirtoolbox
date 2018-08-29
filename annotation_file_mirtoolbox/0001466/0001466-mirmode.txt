@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001466-小小羊兒要回家.mp3	-0.045525	0.098521	0.059570	0.039216	0.242095	0.958665	

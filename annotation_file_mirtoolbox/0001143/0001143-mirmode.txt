@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001143-匈牙利舞曲第3首(代表食物：義大利麵)(布拉姆斯).mp3	0.029763	0.146473	-0.014190	0.028169	0.193805	0.907979	

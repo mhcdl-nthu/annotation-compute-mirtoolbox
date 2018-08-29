@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001531-明月千里寄相思.mp3	-0.083657	0.098180	0.009422	0.500000	0.481733	0.967607	

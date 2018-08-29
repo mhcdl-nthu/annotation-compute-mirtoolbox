@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001564-金鳳凰(電影_金鳳凰_主題曲).mp3	0.549551	0.141062	-0.048082	1.053109	0.942857	0.979289	

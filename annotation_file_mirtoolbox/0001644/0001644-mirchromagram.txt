@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001644-教我如何不想她(電影_教我如何不想她_主題曲).mp3	0.906448	0.407369	0.332977	0.208177	0.152577	0.977128	0.120299	0.082576	0.211989	0.177741	1.000000	0.470244	

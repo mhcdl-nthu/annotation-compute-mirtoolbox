@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001430-SADUKATABUAN.mp3	0.308399	0.147619	-0.024883	2.501134	0.915553	0.974862	

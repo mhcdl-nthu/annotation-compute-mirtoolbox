@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002050-收不回的愛.mp3	-0.021419	0.101973	-0.035524	0.166667	0.213578	0.912277	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000341-排灣老上海.mp3	-0.047406	0.125637	0.107845	0.133333	0.200511	0.946176	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001587-說不出的快活.mp3	-0.007929	0.109206	0.096491	0.046512	0.161749	0.891551	

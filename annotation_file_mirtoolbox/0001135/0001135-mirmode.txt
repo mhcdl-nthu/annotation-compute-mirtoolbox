@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001135-全世界，我愛你.mp3	-0.026183	0.123858	-0.066606	0.016393	0.138373	0.910902	

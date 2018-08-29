@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000293-HereThereandEverywhere.mp3	0.225453	0.116604	-0.165602	1.081572	0.869080	0.971547	

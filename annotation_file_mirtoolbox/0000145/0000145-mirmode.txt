@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000145-愛人是行船人.mp3	0.054602	0.137824	-0.056206	0.017391	0.279781	0.937360	

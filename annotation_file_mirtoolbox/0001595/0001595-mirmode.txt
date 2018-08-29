@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001595-青春兒女(電影_曼波女郎_插曲).mp3	0.012244	0.102318	0.021026	0.024390	0.139189	0.905622	

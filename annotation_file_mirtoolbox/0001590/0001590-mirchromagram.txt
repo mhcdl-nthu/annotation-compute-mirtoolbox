@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001590-魂縈舊夢(電影_孤戀花_配樂).mp3	0.766560	0.185315	0.695355	0.262537	0.056614	1.000000	0.218269	0.592560	0.057156	0.607336	0.488600	0.073578	

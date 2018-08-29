@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001854-愛你在心口難開.mp3	-0.013078	0.117721	-0.148232	0.500000	0.275572	0.916498	

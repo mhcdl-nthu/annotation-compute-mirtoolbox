@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000308-MovingLikeaCloud.mp3	0.245988	0.096880	0.263847	0.533575	0.913798	0.975478	

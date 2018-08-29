@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000238-ImGonnaSeeMyBaby.mp3	0.445051	0.178803	0.128251	2.354009	0.908384	0.978924	

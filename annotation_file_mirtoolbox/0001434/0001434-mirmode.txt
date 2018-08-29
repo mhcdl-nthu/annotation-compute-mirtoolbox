@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001434-vavayan排灣女孩.mp3	-0.032646	0.111165	-0.123074	0.142857	0.260388	0.933639	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000292-MemoireVive.mp3	-0.034898	0.112152	0.050624	0.068966	0.334761	0.932780	

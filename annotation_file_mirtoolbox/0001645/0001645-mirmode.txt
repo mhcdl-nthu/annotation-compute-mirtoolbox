@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001645-知道不知道.mp3	-0.062351	0.081610	-0.058756	0.105263	0.453112	0.941433	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001423-arayenkotoas·PÁÂ¯ªÆF.mp3	-0.057625	0.108270	-0.079578	0.125000	0.281638	0.955382	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000347-星空下的獵人.mp3	-0.043118	0.103508	0.020358	0.014706	0.218795	0.955118	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001858-謝謝你曾經愛過我.mp3	-0.031062	0.113620	-0.108059	0.071429	0.313438	0.920315	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002112-男兒的心情.mp3	-0.089019	0.095091	-0.033070	0.166667	0.532060	0.968853	

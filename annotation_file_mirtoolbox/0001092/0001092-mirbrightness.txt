@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001092-Auroreprintani?re(¬K¤ÑªºÀÆ¥ú).mp3	0.401563	0.137783	0.248160	0.347984	0.941662	0.981952	

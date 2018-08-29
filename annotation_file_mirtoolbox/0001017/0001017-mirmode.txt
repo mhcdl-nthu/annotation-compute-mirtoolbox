@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001017-AnataToTomoniIkiteyuku.mp3	-0.030617	0.122183	-0.096808	0.040000	0.234942	0.916942	

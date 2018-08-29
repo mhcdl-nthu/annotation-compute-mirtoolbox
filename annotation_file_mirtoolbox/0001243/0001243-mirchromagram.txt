@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001243-聽我輕輕唱(SingingSoftlytoYou).mp3	0.059168	0.876937	0.052202	0.485295	0.035410	0.285906	0.670771	0.048370	1.000000	0.115537	0.569069	0.426201	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001422-祖靈請你不要放棄我們(Tremumuwan！pleasedonotgiveuponus).mp3	-0.033876	0.121798	0.024599	0.020408	0.177008	0.915642	

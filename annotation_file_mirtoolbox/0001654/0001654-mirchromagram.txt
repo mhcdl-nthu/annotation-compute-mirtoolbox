@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001654-¹L¥hªº¬K¹Ú.mp3	0.590171	0.169963	0.723998	0.231586	0.514391	0.326746	0.209376	1.000000	0.227182	0.629353	0.111316	0.273256	

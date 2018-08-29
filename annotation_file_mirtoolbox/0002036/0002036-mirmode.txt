@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002036-為錢賭生命.mp3	0.010980	0.103092	-0.028821	0.008230	0.161592	0.916260	

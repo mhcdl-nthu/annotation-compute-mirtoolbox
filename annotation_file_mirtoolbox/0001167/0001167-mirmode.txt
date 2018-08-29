@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001167-心頭上的針.mp3	-0.089526	0.156976	-0.157957	0.080000	0.377800	0.945221	

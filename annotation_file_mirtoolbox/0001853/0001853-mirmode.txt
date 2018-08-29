@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001853-日安我的愛.mp3	-0.029665	0.118411	0.065025	0.021739	0.137650	0.921083	

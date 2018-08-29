@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0000337-³·¼v-¤j³·¤p³·.mp3	0.023893	0.503858	0.120156	0.139105	0.834190	0.000000	0.308835	0.025520	0.199923	0.451364	0.091237	1.000000	

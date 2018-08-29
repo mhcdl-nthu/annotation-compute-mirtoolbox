@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001030-來生再愛您一次.mp3	-0.036692	0.090029	0.056840	0.125000	0.221843	0.947796	

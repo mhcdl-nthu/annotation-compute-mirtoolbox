@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001045-快樂一點點.mp3	-0.026593	0.096331	-0.009577	0.033898	0.188331	0.927356	

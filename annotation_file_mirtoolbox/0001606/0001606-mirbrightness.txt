@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001606-青年頌(電影_復活的玫瑰_插曲).mp3	0.347719	0.116256	-0.004989	1.819007	0.922366	0.977860	

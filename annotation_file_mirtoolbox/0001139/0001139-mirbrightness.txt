@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001139-詩劇《皮爾金》之《阿妮塔之舞》(代表食物：異國料理-挪威)(葛利格).mp3	0.490907	0.101904	-0.010130	1.429220	0.965930	0.976700	

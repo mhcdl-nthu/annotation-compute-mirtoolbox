@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001287-¿Aµì.mp3	-0.020696	0.032413	-0.182513	0.222222	0.444361	0.901442	

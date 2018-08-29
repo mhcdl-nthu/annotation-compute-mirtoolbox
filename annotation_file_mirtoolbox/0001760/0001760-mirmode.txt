@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001760-·s­¦»P·s®Q.mp3	-0.055771	0.093117	0.012082	0.014599	0.399066	0.962225	

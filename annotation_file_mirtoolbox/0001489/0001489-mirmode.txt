@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001489-春風吻上我的臉(電影_那個不多情_插曲).mp3	-0.039542	0.108179	-0.063691	0.033898	0.222566	0.929289	

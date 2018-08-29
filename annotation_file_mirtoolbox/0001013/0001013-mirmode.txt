@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001013-HanaNoBlues.mp3	-0.020083	0.112530	0.021620	0.014388	0.206270	0.917753	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001468-天上人間(電影_茶花女_插曲).mp3	0.787570	0.028327	0.579713	0.688670	0.328374	0.278437	0.159289	0.279338	0.471970	0.638594	0.850249	1.000000	

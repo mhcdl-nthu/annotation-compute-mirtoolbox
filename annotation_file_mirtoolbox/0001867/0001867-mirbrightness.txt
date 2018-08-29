@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001867-我是真的付出我的愛.mp3	0.365002	0.138818	0.245380	2.667877	0.929015	0.980593	

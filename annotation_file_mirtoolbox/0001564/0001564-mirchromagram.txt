@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001564-金鳳凰(電影_金鳳凰_主題曲).mp3	0.593088	0.850667	0.199280	0.714823	0.264780	0.800766	0.114233	0.417248	0.993545	0.263440	1.000000	0.180346	

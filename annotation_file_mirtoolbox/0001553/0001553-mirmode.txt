@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001553-¥dªù.mp3	-0.027833	0.093958	-0.051258	0.025641	0.177473	0.922669	

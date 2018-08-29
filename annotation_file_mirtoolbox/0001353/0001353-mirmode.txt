@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001353-未完成的歌.mp3	-0.017662	0.103200	-0.006445	0.012739	0.168406	0.899279	

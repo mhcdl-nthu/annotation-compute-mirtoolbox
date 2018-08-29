@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000253-YouCantMakeMoneyDreaming.mp3	-0.033738	0.113544	0.020253	0.047619	0.186274	0.911110	

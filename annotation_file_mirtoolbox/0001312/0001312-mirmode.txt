@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001312-三分之一的時間.mp3	0.022878	0.124308	-0.087285	0.010870	0.110962	0.921157	

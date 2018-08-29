@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001460-如果沒有你.mp3	-0.034232	0.142846	0.048497	0.028986	0.275830	0.895986	

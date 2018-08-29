@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000255-CelaN'estPasAssez.mp3	-0.020024	0.118844	-0.020979	0.025316	0.141289	0.921106	

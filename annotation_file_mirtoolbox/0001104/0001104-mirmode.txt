@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001104-SWEETDREAMS.mp3	-0.045772	0.088009	-0.108467	0.036364	0.310427	0.976591	

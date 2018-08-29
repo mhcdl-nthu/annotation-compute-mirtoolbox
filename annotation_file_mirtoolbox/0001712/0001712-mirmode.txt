@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001712-只見雪花不見人.mp3	-0.050068	0.109285	-0.010570	0.285714	0.266615	0.964083	

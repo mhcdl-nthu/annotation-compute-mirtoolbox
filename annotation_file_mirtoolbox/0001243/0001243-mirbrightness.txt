@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001243-聽我輕輕唱(SingingSoftlytoYou).mp3	0.237524	0.131927	0.204780	2.501134	0.842875	0.975431	

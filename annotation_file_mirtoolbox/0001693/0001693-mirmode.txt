@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001693-我的一顆心(WoDeYiKeXin).mp3	-0.029988	0.119835	0.022790	0.007843	0.222169	0.920985	

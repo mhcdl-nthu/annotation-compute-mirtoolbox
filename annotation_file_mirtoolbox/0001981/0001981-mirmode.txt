@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001981-誰人不想起故鄉.mp3	-0.029357	0.111323	0.063083	0.017241	0.206556	0.916357	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002008-成功一定是咱的.mp3	-0.027951	0.108585	-0.015082	0.019048	0.231147	0.904851	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001541-給我一個吻.mp3	0.020845	0.114218	-0.097894	0.021505	0.181197	0.898938	

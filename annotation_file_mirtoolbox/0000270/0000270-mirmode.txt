@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000270-DouceLibellule.mp3	-0.013535	0.131221	0.031055	0.029412	0.154737	0.915163	

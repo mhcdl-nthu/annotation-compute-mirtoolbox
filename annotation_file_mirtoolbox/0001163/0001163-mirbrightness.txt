@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001163-說好見面(原唱：林慧萍).mp3	0.297485	0.134118	0.081671	2.667877	0.883658	0.980220	

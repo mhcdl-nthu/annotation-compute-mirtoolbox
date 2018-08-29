@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001468-天上人間(電影_茶花女_插曲).mp3	-0.006884	0.095827	0.019284	0.016807	0.165772	0.900943	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001520-桃花江(電影_桃花江_主題曲).mp3	-0.014561	0.117582	-0.064852	0.200000	0.180245	0.896031	

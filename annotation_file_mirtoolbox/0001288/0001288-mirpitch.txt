@@ -1,0 +1,16 @@
+MIRtoolbox1.7	_Pitch_Mean	
+song_file\0001288-­¸¹«.mp3	NaN	
+	391.844520	
+	NaN	
+	NaN	
+	1185.956823	
+	NaN	
+	1343.865144	
+	NaN	
+	1440.498901	
+	NaN	
+	1275.763279	
+	NaN	
+	NaN	
+	NaN	
+	NaN	

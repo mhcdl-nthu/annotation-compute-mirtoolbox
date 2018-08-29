@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001087-Berceuse.mp3	-0.020654	0.133926	-0.123650	0.023256	0.208358	0.900233	

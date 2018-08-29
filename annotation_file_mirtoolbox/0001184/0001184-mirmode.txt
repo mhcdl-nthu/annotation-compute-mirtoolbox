@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001184-我要飛上青天.mp3	-0.021089	0.113745	0.045012	0.015385	0.203820	0.897580	

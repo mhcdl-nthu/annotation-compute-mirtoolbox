@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001514-黃葉舞秋風(電影_長相思_插曲).mp3	-0.022541	0.118114	-0.015727	0.666667	0.195611	0.880740	

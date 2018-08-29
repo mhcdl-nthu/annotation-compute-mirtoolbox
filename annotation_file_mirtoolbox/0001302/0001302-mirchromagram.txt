@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001302-ªª¯«ªº©]®b(ANightBanquetwithPan).mp3	1.000000	0.000000	0.453841	0.315493	0.024295	0.780193	0.000000	0.822167	0.562725	0.251826	0.591221	0.000000	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001170-你在我心中最深的地方.mp3	-0.028724	0.129978	0.093453	0.007519	0.217688	0.927899	

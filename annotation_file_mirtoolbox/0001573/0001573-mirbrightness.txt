@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001573-猜不出是什麼情意(電影_姊妹花_插曲)(CaiBuChuShiShenMeQingYi).mp3	0.327621	0.153488	-0.148441	2.000907	0.876061	0.979115	

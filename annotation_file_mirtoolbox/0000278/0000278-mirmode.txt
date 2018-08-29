@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000278-YellowMandala.mp3	-0.086401	0.136316	-0.054920	0.062500	0.523249	0.966383	

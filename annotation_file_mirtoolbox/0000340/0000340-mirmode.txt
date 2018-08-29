@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000340-親愛的不要怕.mp3	-0.007633	0.112524	0.062408	0.068966	0.141107	0.914091	

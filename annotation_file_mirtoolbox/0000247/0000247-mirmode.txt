@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000247-IWontDance.mp3	-0.004078	0.110886	-0.027595	0.018349	0.142072	0.913667	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001907-告訴羅娜我愛她.mp3	0.020186	0.144143	0.077078	0.019231	0.289750	0.884480	

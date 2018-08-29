@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001407-飄洋過海來看你.mp3	-0.029517	0.115967	-0.051709	0.031746	0.243674	0.929459	

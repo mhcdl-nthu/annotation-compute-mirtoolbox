@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001269-¬K¤ô(SpringtimeWater).mp3	-0.001626	0.116891	-0.003664	1.000000	0.166749	0.910722	

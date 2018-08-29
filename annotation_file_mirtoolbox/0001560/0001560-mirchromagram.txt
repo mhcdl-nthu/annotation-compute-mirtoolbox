@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001560-那個不多情(電影_那個不多情_主題曲).mp3	0.376877	0.479697	0.067786	0.654411	0.053586	0.439929	0.016635	0.276342	0.542272	0.149319	1.000000	0.278020	

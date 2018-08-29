@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001415-SingingforEachOther.mp3	-0.034660	0.106939	-0.078219	0.086957	0.258902	0.935316	

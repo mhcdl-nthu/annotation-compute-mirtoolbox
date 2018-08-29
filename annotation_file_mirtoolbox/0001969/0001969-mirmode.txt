@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001969-媽媽請你也保重.mp3	0.029163	0.115688	0.019250	1.000000	0.276935	0.915805	

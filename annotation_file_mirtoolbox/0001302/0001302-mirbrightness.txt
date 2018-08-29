@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001302-ªª¯«ªº©]®b(ANightBanquetwithPan).mp3	0.294793	0.154510	0.240900	4.001815	0.946204	0.986485	

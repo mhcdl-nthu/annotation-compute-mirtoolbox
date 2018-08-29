@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000249-IfThatsTheWayYouFeel.mp3	-0.016755	0.127877	-0.103777	0.125000	0.159758	0.903935	

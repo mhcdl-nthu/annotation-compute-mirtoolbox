@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001683-今天不回家(JinTianBuHuiJia).mp3	-0.024872	0.113372	0.049767	0.068966	0.155983	0.908971	

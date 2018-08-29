@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001450-®a®a°s(Playhouse).mp3	-0.014582	0.112326	-0.044852	0.010471	0.125421	0.909263	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001060-捱等係客家好朋友.mp3	0.475299	0.111745	0.154371	3.078319	0.958726	0.979496	

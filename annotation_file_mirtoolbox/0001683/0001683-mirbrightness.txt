@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001683-今天不回家(JinTianBuHuiJia).mp3	0.471046	0.129400	0.057134	1.539160	0.942056	0.980960	

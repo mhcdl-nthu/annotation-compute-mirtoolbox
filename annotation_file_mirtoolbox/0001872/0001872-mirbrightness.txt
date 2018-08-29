@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001872-是不是這樣的夜晚你才會這樣的想起我.mp3	0.383615	0.141197	0.050335	1.143376	0.928175	0.977795	

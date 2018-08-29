@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001569-不許他回家(IWontLetHimGo).mp3	-0.069368	0.103980	0.051182	0.250000	0.432251	0.960159	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001584-月兒彎彎照九州.mp3	-0.029139	0.139164	-0.021178	0.400000	0.216437	0.909787	

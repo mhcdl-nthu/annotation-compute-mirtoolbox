@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001356-°¸µM(ChelsiaMyLove).mp3	-0.061559	0.124473	-0.016783	0.045455	0.252372	0.947306	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001096-Gymnop?dien¢X1.mp3	0.090514	0.057606	0.053129	1.212671	0.810620	0.978505	

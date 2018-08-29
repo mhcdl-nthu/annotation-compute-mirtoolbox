@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001563-靜靜的月夜(電影_酒色財氣_插曲).mp3	-0.033631	0.097533	0.084319	0.400000	0.227231	0.933968	

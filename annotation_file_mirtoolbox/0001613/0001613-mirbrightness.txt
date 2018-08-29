@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001613-媽媽送我一個吉他.mp3	0.537551	0.106380	-0.056729	5.002269	0.970225	0.978468	

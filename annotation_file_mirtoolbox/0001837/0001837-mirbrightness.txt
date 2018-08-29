@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001837-亞細亞的孤兒.mp3	0.607950	0.126156	0.296691	1.429220	0.974284	0.978891	

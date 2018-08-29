@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001382-長空下的獨白.mp3	-0.013147	0.126679	-0.040448	0.014599	0.271544	0.888794	

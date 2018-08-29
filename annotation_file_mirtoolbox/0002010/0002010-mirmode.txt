@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002010-愛人跟人走.mp3	-0.031405	0.090721	0.001970	0.071429	0.238032	0.931276	

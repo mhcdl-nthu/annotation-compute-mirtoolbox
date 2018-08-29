@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000179-你是我所愛的人.mp3	0.018205	0.114039	0.046191	0.035088	0.143047	0.892146	

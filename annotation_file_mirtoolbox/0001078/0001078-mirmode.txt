@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001078-FairysWaltz.mp3	-0.021663	0.113532	-0.117847	0.045455	0.211693	0.892413	

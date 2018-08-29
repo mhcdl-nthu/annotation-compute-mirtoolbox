@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001477-藍與黑(電影_藍與黑_主題曲).mp3	0.253235	0.105538	0.125999	0.421244	0.872185	0.975677	

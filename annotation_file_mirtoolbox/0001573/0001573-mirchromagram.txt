@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001573-猜不出是什麼情意(電影_姊妹花_插曲)(CaiBuChuShiShenMeQingYi).mp3	0.487927	0.211450	0.257528	0.373030	0.072562	0.160764	0.032361	0.576200	0.591319	0.267385	1.000000	0.478008	

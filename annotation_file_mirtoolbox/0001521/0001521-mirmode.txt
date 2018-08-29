@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001521-月下對口(電影_桃花江_插曲).mp3	-0.027746	0.098807	-0.099825	0.023256	0.208006	0.913501	

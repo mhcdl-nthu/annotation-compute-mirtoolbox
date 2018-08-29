@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001036-在想您想捱介時節想起您.mp3	0.320393	0.148412	0.090191	2.858439	0.886187	0.976626	

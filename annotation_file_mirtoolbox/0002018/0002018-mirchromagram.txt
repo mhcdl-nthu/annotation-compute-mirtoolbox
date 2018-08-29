@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0002018-¬K¤Ñ­þ·|³o©O´H.mp3	0.587038	0.055821	0.671993	0.054937	0.832769	0.111019	0.070351	1.000000	0.074444	0.837787	0.060197	0.090118	

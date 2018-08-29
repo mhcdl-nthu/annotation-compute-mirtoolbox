@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001183-你是我永遠的鄉愁.mp3	0.370163	0.161185	-0.099847	2.667877	0.931817	0.982023	

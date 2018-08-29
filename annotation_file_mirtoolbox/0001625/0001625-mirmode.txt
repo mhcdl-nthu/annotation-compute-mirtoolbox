@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001625-往事只能回味.mp3	-0.015358	0.098559	0.025836	0.044444	0.114863	0.913995	

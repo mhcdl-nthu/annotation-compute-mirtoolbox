@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000251-StormyWeather.mp3	-0.007556	0.122028	0.104195	0.024691	0.112975	0.913525	

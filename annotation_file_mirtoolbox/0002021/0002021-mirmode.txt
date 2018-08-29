@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002021-無穩定的愛.mp3	-0.086222	0.119102	0.010510	0.105263	0.400464	0.969985	

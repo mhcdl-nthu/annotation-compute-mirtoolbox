@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001059-我在月光下歌唱.mp3	0.422915	0.123228	-0.067066	2.106218	0.959333	0.981619	

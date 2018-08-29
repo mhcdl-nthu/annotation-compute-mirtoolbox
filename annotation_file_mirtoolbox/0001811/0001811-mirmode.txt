@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001811-冬天里的一把火.mp3	-0.101260	0.113574	-0.093029	0.250000	0.603035	0.961848	

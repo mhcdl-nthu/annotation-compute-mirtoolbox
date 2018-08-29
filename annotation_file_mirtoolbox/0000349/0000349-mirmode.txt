@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000349-忠實的心想念你.mp3	-0.036700	0.117525	0.116376	0.095238	0.392285	0.905395	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002065-一生只愛你一個.mp3	-0.065486	0.113276	0.004307	0.046512	0.356358	0.957758	

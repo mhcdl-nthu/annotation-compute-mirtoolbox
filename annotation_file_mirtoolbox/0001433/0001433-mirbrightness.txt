@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001433-LoveOthersAsSelf.mp3	0.228130	0.137566	0.158225	2.223230	0.856624	0.967850	

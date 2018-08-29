@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001253-µ²ΉκυμυμªΊ½_ΑJ.mp3	-0.046660	0.099839	0.018483	0.054054	0.240926	0.963471	

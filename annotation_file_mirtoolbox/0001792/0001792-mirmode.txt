@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001792-其實你不懂我的心.mp3	-0.032836	0.105564	-0.014607	0.062500	0.233237	0.915446	

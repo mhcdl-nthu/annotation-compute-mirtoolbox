@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001079-AMBROSIA.mp3	0.027601	0.105780	-0.009843	0.222222	0.506022	0.947104	

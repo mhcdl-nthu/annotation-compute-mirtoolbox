@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Chromagram_Mean_1	_Chromagram_Mean_2	_Chromagram_Mean_3	_Chromagram_Mean_4	_Chromagram_Mean_5	_Chromagram_Mean_6	_Chromagram_Mean_7	_Chromagram_Mean_8	_Chromagram_Mean_9	_Chromagram_Mean_10	_Chromagram_Mean_11	_Chromagram_Mean_12	
+song_file\0001335-»E´²­Ç¨Ì¨Ì.mp3	0.172634	0.637387	0.292879	0.285613	0.684613	0.891420	1.000000	0.170960	0.854484	0.695205	0.383842	0.466366	

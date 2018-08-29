@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0000153-¼sªFªá.mp3	-0.096656	0.115663	0.003448	0.181818	0.488392	0.964004	

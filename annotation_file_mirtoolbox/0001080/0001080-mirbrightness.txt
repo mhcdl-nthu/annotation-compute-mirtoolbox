@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001080-ΔεͺαΎπ.mp3	0.158635	0.053226	-0.024547	5.002269	0.936690	0.979990	

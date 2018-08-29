@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001299-«C«C¯ó­ì(GreenGreenPlain).mp3	0.397414	0.145916	0.207249	3.638014	0.965758	0.974222	

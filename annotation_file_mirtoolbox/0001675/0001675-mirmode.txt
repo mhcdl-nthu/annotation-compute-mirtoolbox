@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001675-何必去燒香.mp3	-0.032867	0.081624	-0.064260	0.046512	0.243996	0.939802	

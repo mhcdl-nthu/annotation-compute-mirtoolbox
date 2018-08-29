@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001644-教我如何不想她(電影_教我如何不想她_主題曲).mp3	-0.013351	0.101388	-0.021251	0.017544	0.134703	0.910216	

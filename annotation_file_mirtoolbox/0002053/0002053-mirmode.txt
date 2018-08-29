@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0002053-命運的吉他.mp3	-0.055595	0.106076	-0.052110	0.015385	0.302585	0.947172	

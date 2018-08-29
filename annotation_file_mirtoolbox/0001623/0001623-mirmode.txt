@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001623-¾|¦Bªá.mp3	0.016918	0.132207	-0.016672	0.666667	0.243394	0.919374	

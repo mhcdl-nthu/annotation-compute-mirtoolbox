@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001155-我依然是你的情人.mp3	-0.015541	0.114277	0.086525	0.008734	0.129174	0.921155	

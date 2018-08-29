@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0001444-變調的獵人(Thehunterischanging).mp3	0.386968	0.123096	0.304300	3.638014	0.958418	0.973764	

@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Mode_Mean	_Mode_Std	_Mode_Slope	_Mode_PeriodFreq	_Mode_PeriodAmp	_Mode_PeriodEntropy	
+song_file\0001633-?得你?得我.mp3	-0.014905	0.100044	0.019938	1.000000	0.205883	0.907691	

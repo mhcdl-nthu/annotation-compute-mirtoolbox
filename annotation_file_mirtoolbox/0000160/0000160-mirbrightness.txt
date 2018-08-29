@@ -1,0 +1,2 @@
+MIRtoolbox1.7	_Brightness_Mean	_Brightness_Std	_Brightness_Slope	_Brightness_PeriodFreq	_Brightness_PeriodAmp	_Brightness_PeriodEntropy	
+song_file\0000160-媽媽請妳也保重.mp3	0.589666	0.156477	0.087628	4.001815	0.971411	0.977922	
